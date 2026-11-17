@@ -1,0 +1,10 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 22530.31it/s]
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.7, 'r_min': 0} score 0.318  retest_rule 0.270  exc_beyond 0.366  retest_exc 0.133  rule 0.702
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.7, 'r_min': 2} score 0.329  retest_rule 0.285  exc_beyond 0.372  retest_exc 0.133  rule 0.702
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.7, 'r_min': 5} score 0.301  retest_rule 0.226  exc_beyond 0.375  retest_exc 0.089  rule 0.737
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.7, 'r_min': 10} score 0.219  retest_rule 0.087  exc_beyond 0.352  retest_exc 0.037  rule 0.725
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.8, 'r_min': 0} score 0.280  retest_rule 0.183  exc_beyond 0.377  retest_exc 0.106  rule 0.624
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.8, 'r_min': 2} score 0.251  retest_rule 0.143  exc_beyond 0.358  retest_exc 0.076  rule 0.732
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.8, 'r_min': 5} score 0.170  retest_rule 0.013  exc_beyond 0.327  retest_exc 0.031  rule 0.734
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.8, 'r_min': 10} score 0.148  retest_rule 0.000  exc_beyond 0.295  retest_exc 0.000  rule 0.648
+BEST schema_kappa: {"theta": 0.98, "tau": 0.5, "cue": 0.7, "r_min": 2} score 0.329

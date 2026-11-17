@@ -1,0 +1,221 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 27200.73it/s]
+seed 110 exc 0.2 teacher                rule 1.000 exc_in 1.000 exc_beyond 0.783 (>4W 0.714) drift 1.000 6.1s
+seed 110 exc 0.2 swa                    rule 0.385 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.6s
+seed 110 exc 0.2 swa_big                rule 0.769 exc_in 1.000 exc_beyond 0.217 (>4W 0.000) drift 1.000 4.1s
+seed 110 exc 0.2 hippo                  rule 0.846 exc_in 0.000 exc_beyond 0.391 (>4W 0.357) drift 1.000 | retest rule 0.000 exc 0.000 3.9s
+seed 110 exc 0.2 schema                 rule 0.615 exc_in 1.000 exc_beyond 0.261 (>4W 0.143) drift 0.750 | retest rule 0.154 exc 0.130 5.3s
+seed 110 exc 0.2 schema_nogate          rule 0.462 exc_in 1.000 exc_beyond 0.304 (>4W 0.214) drift 0.750 | retest rule 0.154 exc 0.087 5.1s
+seed 110 exc 0.2 schema_surprise_pri    rule 0.769 exc_in 1.000 exc_beyond 0.348 (>4W 0.214) drift 1.000 | retest rule 0.154 exc 0.130 5.4s
+seed 110 exc 0.2 uniform_replay         rule 0.692 exc_in 1.000 exc_beyond 0.304 (>4W 0.214) drift 0.750 | retest rule 0.231 exc 0.130 5.0s
+seed 110 exc 0.2 sleep_all              rule 0.769 exc_in 1.000 exc_beyond 0.304 (>4W 0.214) drift 1.000 | retest rule 0.231 exc 0.130 5.0s
+seed 110 exc 0.2 arrival                rule 0.769 exc_in 1.000 exc_beyond 0.391 (>4W 0.357) drift 0.500 | retest rule 0.154 exc 0.261 6.6s
+seed 110 exc 0.2 surprise               rule 0.692 exc_in 1.000 exc_beyond 0.391 (>4W 0.357) drift 0.500 | retest rule 0.154 exc 0.304 7.0s
+seed 110 exc 0.5 teacher                rule 0.875 exc_in 1.000 exc_beyond 0.922 (>4W 0.886) drift 1.000 7.4s
+seed 110 exc 0.5 swa                    rule 0.750 exc_in 0.750 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.9s
+seed 110 exc 0.5 swa_big                rule 0.875 exc_in 1.000 exc_beyond 0.266 (>4W 0.000) drift 0.500 4.7s
+seed 110 exc 0.5 hippo                  rule 1.000 exc_in 1.000 exc_beyond 0.266 (>4W 0.143) drift 1.000 | retest rule 0.000 exc 0.000 4.3s
+seed 110 exc 0.5 schema                 rule 1.000 exc_in 1.000 exc_beyond 0.234 (>4W 0.114) drift 1.000 | retest rule 0.250 exc 0.062 5.8s
+seed 110 exc 0.5 schema_nogate          rule 0.875 exc_in 1.000 exc_beyond 0.250 (>4W 0.143) drift 1.000 | retest rule 0.250 exc 0.062 5.6s
+seed 110 exc 0.5 schema_surprise_pri    rule 1.000 exc_in 1.000 exc_beyond 0.250 (>4W 0.143) drift 1.000 | retest rule 0.125 exc 0.109 5.8s
+seed 110 exc 0.5 uniform_replay         rule 0.750 exc_in 1.000 exc_beyond 0.281 (>4W 0.114) drift 0.500 | retest rule 0.250 exc 0.078 5.5s
+seed 110 exc 0.5 sleep_all              rule 0.750 exc_in 1.000 exc_beyond 0.234 (>4W 0.143) drift 0.500 | retest rule 0.375 exc 0.078 5.5s
+seed 110 exc 0.5 arrival                rule 1.000 exc_in 1.000 exc_beyond 0.250 (>4W 0.171) drift 1.000 | retest rule 0.125 exc 0.062 7.2s
+seed 110 exc 0.5 surprise               rule 1.000 exc_in 1.000 exc_beyond 0.266 (>4W 0.143) drift 1.000 | retest rule 0.500 exc 0.062 7.6s
+seed 111 exc 0.2 teacher                rule 0.846 exc_in 1.000 exc_beyond 0.889 (>4W 0.833) drift 0.500 6.4s
+seed 111 exc 0.2 swa                    rule 0.538 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.750 2.7s
+seed 111 exc 0.2 swa_big                rule 0.615 exc_in 1.000 exc_beyond 0.185 (>4W 0.000) drift 0.750 4.3s
+seed 111 exc 0.2 hippo                  rule 0.615 exc_in 1.000 exc_beyond 0.407 (>4W 0.278) drift 0.750 | retest rule 0.000 exc 0.000 4.0s
+seed 111 exc 0.2 schema                 rule 0.615 exc_in 1.000 exc_beyond 0.370 (>4W 0.278) drift 0.750 | retest rule 0.000 exc 0.185 5.4s
+seed 111 exc 0.2 schema_nogate          rule 0.615 exc_in 1.000 exc_beyond 0.333 (>4W 0.278) drift 0.750 | retest rule 0.000 exc 0.185 5.2s
+seed 111 exc 0.2 schema_surprise_pri    rule 0.615 exc_in 1.000 exc_beyond 0.444 (>4W 0.389) drift 0.750 | retest rule 0.077 exc 0.222 5.5s
+seed 111 exc 0.2 uniform_replay         rule 0.615 exc_in 1.000 exc_beyond 0.370 (>4W 0.278) drift 0.750 | retest rule 0.077 exc 0.185 5.1s
+seed 111 exc 0.2 sleep_all              rule 0.538 exc_in 1.000 exc_beyond 0.370 (>4W 0.278) drift 0.750 | retest rule 0.000 exc 0.259 5.1s
+seed 111 exc 0.2 arrival                rule 0.615 exc_in 1.000 exc_beyond 0.370 (>4W 0.389) drift 0.750 | retest rule 0.077 exc 0.259 6.7s
+seed 111 exc 0.2 surprise               rule 0.615 exc_in 1.000 exc_beyond 0.444 (>4W 0.389) drift 0.750 | retest rule 0.077 exc 0.222 7.1s
+seed 111 exc 0.5 teacher                rule 1.000 exc_in 1.000 exc_beyond 0.938 (>4W 0.925) drift 1.000 7.5s
+seed 111 exc 0.5 swa                    rule 0.636 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.750 2.9s
+seed 111 exc 0.5 swa_big                rule 0.818 exc_in 1.000 exc_beyond 0.215 (>4W 0.000) drift 0.750 4.8s
+seed 111 exc 0.5 hippo                  rule 0.909 exc_in 1.000 exc_beyond 0.446 (>4W 0.350) drift 0.750 | retest rule 0.000 exc 0.000 4.4s
+seed 111 exc 0.5 schema                 rule 1.000 exc_in 1.000 exc_beyond 0.354 (>4W 0.250) drift 1.000 | retest rule 0.364 exc 0.092 5.8s
+seed 111 exc 0.5 schema_nogate          rule 1.000 exc_in 1.000 exc_beyond 0.292 (>4W 0.225) drift 1.000 | retest rule 0.364 exc 0.092 5.6s
+seed 111 exc 0.5 schema_surprise_pri    rule 1.000 exc_in 1.000 exc_beyond 0.308 (>4W 0.250) drift 1.000 | retest rule 0.273 exc 0.169 5.9s
+seed 111 exc 0.5 uniform_replay         rule 0.909 exc_in 1.000 exc_beyond 0.323 (>4W 0.225) drift 1.000 | retest rule 0.273 exc 0.123 5.5s
+seed 111 exc 0.5 sleep_all              rule 0.909 exc_in 1.000 exc_beyond 0.338 (>4W 0.250) drift 0.750 | retest rule 0.364 exc 0.169 5.5s
+seed 111 exc 0.5 arrival                rule 0.818 exc_in 1.000 exc_beyond 0.415 (>4W 0.400) drift 0.750 | retest rule 0.182 exc 0.185 7.2s
+seed 111 exc 0.5 surprise               rule 0.818 exc_in 1.000 exc_beyond 0.400 (>4W 0.375) drift 0.750 | retest rule 0.182 exc 0.200 7.6s
+seed 112 exc 0.2 teacher                rule 1.000 exc_in 1.000 exc_beyond 0.857 (>4W 0.833) drift 1.000 6.3s
+seed 112 exc 0.2 swa                    rule 0.333 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 2.7s
+seed 112 exc 0.2 swa_big                rule 0.733 exc_in 1.000 exc_beyond 0.286 (>4W 0.000) drift 0.750 4.3s
+seed 112 exc 0.2 hippo                  rule 0.733 exc_in 0.800 exc_beyond 0.667 (>4W 0.583) drift 0.500 | retest rule 0.000 exc 0.000 4.0s
+seed 112 exc 0.2 schema                 rule 0.867 exc_in 1.000 exc_beyond 0.619 (>4W 0.500) drift 0.750 | retest rule 0.533 exc 0.238 5.4s
+seed 112 exc 0.2 schema_nogate          rule 0.800 exc_in 1.000 exc_beyond 0.571 (>4W 0.500) drift 0.500 | retest rule 0.467 exc 0.238 5.2s
+seed 112 exc 0.2 schema_surprise_pri    rule 0.867 exc_in 1.000 exc_beyond 0.571 (>4W 0.500) drift 1.000 | retest rule 0.533 exc 0.190 5.4s
+seed 112 exc 0.2 uniform_replay         rule 0.733 exc_in 0.600 exc_beyond 0.476 (>4W 0.333) drift 0.250 | retest rule 0.400 exc 0.238 5.1s
+seed 112 exc 0.2 sleep_all              rule 0.867 exc_in 1.000 exc_beyond 0.524 (>4W 0.500) drift 0.750 | retest rule 0.533 exc 0.286 5.1s
+seed 112 exc 0.2 arrival                rule 0.867 exc_in 1.000 exc_beyond 0.429 (>4W 0.500) drift 1.000 | retest rule 0.400 exc 0.238 6.6s
+seed 112 exc 0.2 surprise               rule 0.867 exc_in 1.000 exc_beyond 0.429 (>4W 0.417) drift 1.000 | retest rule 0.333 exc 0.190 7.1s
+seed 112 exc 0.5 teacher                rule 0.909 exc_in 1.000 exc_beyond 0.852 (>4W 0.778) drift 0.500 7.5s
+seed 112 exc 0.5 swa                    rule 0.727 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 1.000 2.9s
+seed 112 exc 0.5 swa_big                rule 0.909 exc_in 1.000 exc_beyond 0.295 (>4W 0.000) drift 1.000 4.8s
+seed 112 exc 0.5 hippo                  rule 0.727 exc_in 0.750 exc_beyond 0.328 (>4W 0.278) drift 0.500 | retest rule 0.000 exc 0.000 4.4s
+seed 112 exc 0.5 schema                 rule 0.818 exc_in 1.000 exc_beyond 0.262 (>4W 0.167) drift 1.000 | retest rule 0.182 exc 0.066 5.9s
+seed 112 exc 0.5 schema_nogate          rule 0.818 exc_in 1.000 exc_beyond 0.246 (>4W 0.139) drift 1.000 | retest rule 0.182 exc 0.082 5.6s
+seed 112 exc 0.5 schema_surprise_pri    rule 0.727 exc_in 1.000 exc_beyond 0.213 (>4W 0.167) drift 0.500 | retest rule 0.091 exc 0.082 5.9s
+seed 112 exc 0.5 uniform_replay         rule 0.636 exc_in 1.000 exc_beyond 0.246 (>4W 0.194) drift 0.500 | retest rule 0.273 exc 0.115 5.5s
+seed 112 exc 0.5 sleep_all              rule 0.818 exc_in 1.000 exc_beyond 0.246 (>4W 0.139) drift 1.000 | retest rule 0.182 exc 0.098 5.5s
+seed 112 exc 0.5 arrival                rule 0.909 exc_in 1.000 exc_beyond 0.344 (>4W 0.222) drift 1.000 | retest rule 0.182 exc 0.148 7.2s
+seed 112 exc 0.5 surprise               rule 0.909 exc_in 1.000 exc_beyond 0.344 (>4W 0.250) drift 1.000 | retest rule 0.273 exc 0.164 7.6s
+seed 113 exc 0.2 teacher                rule 0.909 exc_in 0.667 exc_beyond 0.857 (>4W 0.818) drift 0.750 6.4s
+seed 113 exc 0.2 swa                    rule 0.455 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 2.7s
+seed 113 exc 0.2 swa_big                rule 0.636 exc_in 1.000 exc_beyond 0.429 (>4W 0.000) drift 0.500 4.3s
+seed 113 exc 0.2 hippo                  rule 0.727 exc_in 0.667 exc_beyond 0.393 (>4W 0.182) drift 0.500 | retest rule 0.000 exc 0.000 4.0s
+seed 113 exc 0.2 schema                 rule 0.727 exc_in 0.667 exc_beyond 0.321 (>4W 0.091) drift 0.500 | retest rule 0.364 exc 0.143 5.4s
+seed 113 exc 0.2 schema_nogate          rule 0.818 exc_in 0.667 exc_beyond 0.250 (>4W 0.091) drift 0.500 | retest rule 0.364 exc 0.143 5.2s
+seed 113 exc 0.2 schema_surprise_pri    rule 0.818 exc_in 0.667 exc_beyond 0.393 (>4W 0.091) drift 0.750 | retest rule 0.182 exc 0.071 5.5s
+seed 113 exc 0.2 uniform_replay         rule 0.818 exc_in 0.667 exc_beyond 0.393 (>4W 0.182) drift 0.750 | retest rule 0.273 exc 0.143 5.1s
+seed 113 exc 0.2 sleep_all              rule 0.818 exc_in 0.667 exc_beyond 0.321 (>4W 0.273) drift 0.750 | retest rule 0.364 exc 0.036 5.1s
+seed 113 exc 0.2 arrival                rule 1.000 exc_in 0.667 exc_beyond 0.607 (>4W 0.455) drift 1.000 | retest rule 0.364 exc 0.107 6.7s
+seed 113 exc 0.2 surprise               rule 0.909 exc_in 0.667 exc_beyond 0.536 (>4W 0.455) drift 0.750 | retest rule 0.545 exc 0.143 7.1s
+seed 113 exc 0.5 teacher                rule 0.900 exc_in 1.000 exc_beyond 0.793 (>4W 0.765) drift 0.000 7.2s
+seed 113 exc 0.5 swa                    rule 0.600 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 2.9s
+seed 113 exc 0.5 swa_big                rule 0.500 exc_in 1.000 exc_beyond 0.276 (>4W 0.000) drift 0.000 4.7s
+seed 113 exc 0.5 hippo                  rule 1.000 exc_in 1.000 exc_beyond 0.328 (>4W 0.353) drift 1.000 | retest rule 0.000 exc 0.000 4.3s
+seed 113 exc 0.5 schema                 rule 0.700 exc_in 1.000 exc_beyond 0.293 (>4W 0.235) drift 0.000 | retest rule 0.200 exc 0.086 5.7s
+seed 113 exc 0.5 schema_nogate          rule 0.700 exc_in 1.000 exc_beyond 0.276 (>4W 0.206) drift 0.000 | retest rule 0.200 exc 0.086 5.5s
+seed 113 exc 0.5 schema_surprise_pri    rule 0.800 exc_in 1.000 exc_beyond 0.293 (>4W 0.265) drift 0.000 | retest rule 0.200 exc 0.155 5.8s
+seed 113 exc 0.5 uniform_replay         rule 0.600 exc_in 1.000 exc_beyond 0.259 (>4W 0.206) drift 0.000 | retest rule 0.200 exc 0.138 5.4s
+seed 113 exc 0.5 sleep_all              rule 0.700 exc_in 1.000 exc_beyond 0.241 (>4W 0.206) drift 0.000 | retest rule 0.300 exc 0.155 5.4s
+seed 113 exc 0.5 arrival                rule 0.700 exc_in 1.000 exc_beyond 0.345 (>4W 0.294) drift 0.000 | retest rule 0.300 exc 0.155 7.1s
+seed 113 exc 0.5 surprise               rule 0.900 exc_in 1.000 exc_beyond 0.345 (>4W 0.265) drift 0.000 | retest rule 0.400 exc 0.155 7.5s
+seed 114 exc 0.2 teacher                rule 0.867 exc_in 1.000 exc_beyond 0.769 (>4W 0.846) drift 0.500 6.4s
+seed 114 exc 0.2 swa                    rule 0.600 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.7s
+seed 114 exc 0.2 swa_big                rule 0.867 exc_in 1.000 exc_beyond 0.346 (>4W 0.000) drift 1.000 4.3s
+seed 114 exc 0.2 hippo                  rule 0.533 exc_in 1.000 exc_beyond 0.462 (>4W 0.538) drift 0.250 | retest rule 0.000 exc 0.000 4.0s
+seed 114 exc 0.2 schema                 rule 0.733 exc_in 1.000 exc_beyond 0.500 (>4W 0.462) drift 0.750 | retest rule 0.000 exc 0.192 5.4s
+seed 114 exc 0.2 schema_nogate          rule 0.667 exc_in 1.000 exc_beyond 0.538 (>4W 0.538) drift 0.750 | retest rule 0.000 exc 0.192 5.2s
+seed 114 exc 0.2 schema_surprise_pri    rule 0.867 exc_in 1.000 exc_beyond 0.423 (>4W 0.462) drift 1.000 | retest rule 0.267 exc 0.231 5.5s
+seed 114 exc 0.2 uniform_replay         rule 0.667 exc_in 1.000 exc_beyond 0.423 (>4W 0.231) drift 0.750 | retest rule 0.133 exc 0.115 5.1s
+seed 114 exc 0.2 sleep_all              rule 0.800 exc_in 1.000 exc_beyond 0.462 (>4W 0.462) drift 1.000 | retest rule 0.200 exc 0.231 5.1s
+seed 114 exc 0.2 arrival                rule 0.600 exc_in 1.000 exc_beyond 0.538 (>4W 0.615) drift 0.250 | retest rule 0.200 exc 0.346 6.7s
+seed 114 exc 0.2 surprise               rule 0.733 exc_in 1.000 exc_beyond 0.538 (>4W 0.615) drift 0.500 | retest rule 0.267 exc 0.308 7.1s
+seed 114 exc 0.5 teacher                rule 0.818 exc_in 1.000 exc_beyond 0.870 (>4W 0.808) drift 0.000 7.1s
+seed 114 exc 0.5 swa                    rule 0.364 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 1.000 2.8s
+seed 114 exc 0.5 swa_big                rule 0.727 exc_in 0.875 exc_beyond 0.304 (>4W 0.000) drift 1.000 4.6s
+seed 114 exc 0.5 hippo                  rule 0.636 exc_in 0.875 exc_beyond 0.478 (>4W 0.423) drift 0.500 | retest rule 0.000 exc 0.000 4.2s
+seed 114 exc 0.5 schema                 rule 0.455 exc_in 0.875 exc_beyond 0.478 (>4W 0.423) drift 0.500 | retest rule 0.182 exc 0.217 5.7s
+seed 114 exc 0.5 schema_nogate          rule 0.273 exc_in 0.875 exc_beyond 0.500 (>4W 0.462) drift 0.500 | retest rule 0.182 exc 0.239 5.5s
+seed 114 exc 0.5 schema_surprise_pri    rule 0.636 exc_in 0.875 exc_beyond 0.500 (>4W 0.385) drift 1.000 | retest rule 0.273 exc 0.217 5.7s
+seed 114 exc 0.5 uniform_replay         rule 0.545 exc_in 0.875 exc_beyond 0.478 (>4W 0.423) drift 1.000 | retest rule 0.000 exc 0.283 5.4s
+seed 114 exc 0.5 sleep_all              rule 0.636 exc_in 0.875 exc_beyond 0.457 (>4W 0.385) drift 1.000 | retest rule 0.182 exc 0.196 5.3s
+seed 114 exc 0.5 arrival                rule 0.818 exc_in 1.000 exc_beyond 0.522 (>4W 0.577) drift 1.000 | retest rule 0.182 exc 0.261 7.0s
+seed 114 exc 0.5 surprise               rule 0.818 exc_in 1.000 exc_beyond 0.522 (>4W 0.538) drift 1.000 | retest rule 0.182 exc 0.283 7.4s
+seed 115 exc 0.2 teacher                rule 0.846 exc_in 1.000 exc_beyond 0.800 (>4W 0.714) drift 0.750 6.3s
+seed 115 exc 0.2 swa                    rule 0.615 exc_in 0.750 exc_beyond 0.000 (>4W 0.000) drift 0.750 2.7s
+seed 115 exc 0.2 swa_big                rule 1.000 exc_in 1.000 exc_beyond 0.240 (>4W 0.000) drift 1.000 4.3s
+seed 115 exc 0.2 hippo                  rule 0.769 exc_in 1.000 exc_beyond 0.600 (>4W 0.571) drift 0.500 | retest rule 0.000 exc 0.000 4.0s
+seed 115 exc 0.2 schema                 rule 0.923 exc_in 1.000 exc_beyond 0.440 (>4W 0.500) drift 1.000 | retest rule 0.308 exc 0.240 5.4s
+seed 115 exc 0.2 schema_nogate          rule 0.923 exc_in 1.000 exc_beyond 0.440 (>4W 0.429) drift 1.000 | retest rule 0.308 exc 0.240 5.2s
+seed 115 exc 0.2 schema_surprise_pri    rule 0.769 exc_in 1.000 exc_beyond 0.520 (>4W 0.571) drift 0.500 | retest rule 0.308 exc 0.280 5.4s
+seed 115 exc 0.2 uniform_replay         rule 0.846 exc_in 1.000 exc_beyond 0.560 (>4W 0.357) drift 0.750 | retest rule 0.231 exc 0.320 5.1s
+seed 115 exc 0.2 sleep_all              rule 0.846 exc_in 1.000 exc_beyond 0.480 (>4W 0.429) drift 0.750 | retest rule 0.231 exc 0.320 5.1s
+seed 115 exc 0.2 arrival                rule 1.000 exc_in 1.000 exc_beyond 0.440 (>4W 0.643) drift 1.000 | retest rule 0.462 exc 0.400 6.7s
+seed 115 exc 0.2 surprise               rule 1.000 exc_in 1.000 exc_beyond 0.480 (>4W 0.571) drift 1.000 | retest rule 0.385 exc 0.280 7.1s
+seed 115 exc 0.5 teacher                rule 0.889 exc_in 0.846 exc_beyond 0.873 (>4W 0.844) drift 0.667 7.4s
+seed 115 exc 0.5 swa                    rule 0.222 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 2.9s
+seed 115 exc 0.5 swa_big                rule 0.556 exc_in 1.000 exc_beyond 0.255 (>4W 0.000) drift 1.000 4.8s
+seed 115 exc 0.5 hippo                  rule 0.667 exc_in 0.769 exc_beyond 0.236 (>4W 0.250) drift 0.333 | retest rule 0.000 exc 0.000 4.3s
+seed 115 exc 0.5 schema                 rule 0.667 exc_in 0.923 exc_beyond 0.236 (>4W 0.188) drift 0.333 | retest rule 0.222 exc 0.109 5.8s
+seed 115 exc 0.5 schema_nogate          rule 0.556 exc_in 0.846 exc_beyond 0.218 (>4W 0.188) drift 0.333 | retest rule 0.222 exc 0.109 5.6s
+seed 115 exc 0.5 schema_surprise_pri    rule 0.667 exc_in 0.846 exc_beyond 0.255 (>4W 0.219) drift 0.333 | retest rule 0.111 exc 0.182 5.8s
+seed 115 exc 0.5 uniform_replay         rule 0.667 exc_in 0.846 exc_beyond 0.218 (>4W 0.125) drift 0.667 | retest rule 0.222 exc 0.127 5.5s
+seed 115 exc 0.5 sleep_all              rule 0.778 exc_in 0.846 exc_beyond 0.255 (>4W 0.219) drift 0.667 | retest rule 0.111 exc 0.127 5.5s
+seed 115 exc 0.5 arrival                rule 0.556 exc_in 0.923 exc_beyond 0.327 (>4W 0.250) drift 0.000 | retest rule 0.222 exc 0.127 7.2s
+seed 115 exc 0.5 surprise               rule 0.667 exc_in 0.846 exc_beyond 0.345 (>4W 0.219) drift 0.333 | retest rule 0.222 exc 0.164 7.6s
+seed 116 exc 0.2 teacher                rule 0.857 exc_in 1.000 exc_beyond 0.864 (>4W 0.769) drift 0.500 6.2s
+seed 116 exc 0.2 swa                    rule 0.429 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 2.7s
+seed 116 exc 0.2 swa_big                rule 0.786 exc_in 1.000 exc_beyond 0.273 (>4W 0.000) drift 1.000 4.2s
+seed 116 exc 0.2 hippo                  rule 0.643 exc_in 1.000 exc_beyond 0.364 (>4W 0.231) drift 0.250 | retest rule 0.000 exc 0.000 4.0s
+seed 116 exc 0.2 schema                 rule 0.714 exc_in 1.000 exc_beyond 0.318 (>4W 0.077) drift 0.250 | retest rule 0.214 exc 0.045 5.4s
+seed 116 exc 0.2 schema_nogate          rule 0.714 exc_in 1.000 exc_beyond 0.273 (>4W 0.000) drift 0.250 | retest rule 0.143 exc 0.000 5.1s
+seed 116 exc 0.2 schema_surprise_pri    rule 0.786 exc_in 1.000 exc_beyond 0.409 (>4W 0.154) drift 0.500 | retest rule 0.214 exc 0.182 5.4s
+seed 116 exc 0.2 uniform_replay         rule 0.571 exc_in 1.000 exc_beyond 0.409 (>4W 0.154) drift 0.250 | retest rule 0.214 exc 0.091 5.1s
+seed 116 exc 0.2 sleep_all              rule 0.714 exc_in 1.000 exc_beyond 0.318 (>4W 0.077) drift 0.250 | retest rule 0.143 exc 0.045 5.0s
+seed 116 exc 0.2 arrival                rule 0.786 exc_in 1.000 exc_beyond 0.318 (>4W 0.154) drift 0.750 | retest rule 0.214 exc 0.045 6.7s
+seed 116 exc 0.2 surprise               rule 0.786 exc_in 1.000 exc_beyond 0.318 (>4W 0.154) drift 0.750 | retest rule 0.286 exc 0.045 7.0s
+seed 116 exc 0.5 teacher                rule 0.833 exc_in 1.000 exc_beyond 0.849 (>4W 0.767) drift 0.333 7.2s
+seed 116 exc 0.5 swa                    rule 0.500 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.667 2.9s
+seed 116 exc 0.5 swa_big                rule 0.750 exc_in 1.000 exc_beyond 0.283 (>4W 0.000) drift 0.667 4.7s
+seed 116 exc 0.5 hippo                  rule 0.667 exc_in 0.800 exc_beyond 0.358 (>4W 0.333) drift 0.000 | retest rule 0.000 exc 0.000 4.3s
+seed 116 exc 0.5 schema                 rule 0.583 exc_in 0.800 exc_beyond 0.321 (>4W 0.267) drift 0.333 | retest rule 0.083 exc 0.094 5.7s
+seed 116 exc 0.5 schema_nogate          rule 0.583 exc_in 0.800 exc_beyond 0.283 (>4W 0.233) drift 0.333 | retest rule 0.083 exc 0.113 5.5s
+seed 116 exc 0.5 schema_surprise_pri    rule 0.500 exc_in 0.800 exc_beyond 0.302 (>4W 0.267) drift 0.333 | retest rule 0.083 exc 0.094 5.8s
+seed 116 exc 0.5 uniform_replay         rule 0.500 exc_in 1.000 exc_beyond 0.226 (>4W 0.133) drift 0.333 | retest rule 0.083 exc 0.057 5.4s
+seed 116 exc 0.5 sleep_all              rule 0.583 exc_in 0.800 exc_beyond 0.264 (>4W 0.167) drift 0.333 | retest rule 0.083 exc 0.075 5.4s
+seed 116 exc 0.5 arrival                rule 0.833 exc_in 0.800 exc_beyond 0.340 (>4W 0.300) drift 1.000 | retest rule 0.417 exc 0.151 7.1s
+seed 116 exc 0.5 surprise               rule 0.750 exc_in 0.800 exc_beyond 0.377 (>4W 0.300) drift 1.000 | retest rule 0.167 exc 0.132 7.5s
+seed 117 exc 0.2 teacher                rule 0.714 exc_in 1.000 exc_beyond 0.739 (>4W 0.700) drift 0.333 6.3s
+seed 117 exc 0.2 swa                    rule 0.571 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 1.000 2.7s
+seed 117 exc 0.2 swa_big                rule 0.714 exc_in 1.000 exc_beyond 0.261 (>4W 0.000) drift 1.000 4.3s
+seed 117 exc 0.2 hippo                  rule 0.786 exc_in 1.000 exc_beyond 0.348 (>4W 0.100) drift 0.667 | retest rule 0.000 exc 0.000 4.0s
+seed 117 exc 0.2 schema                 rule 0.786 exc_in 1.000 exc_beyond 0.348 (>4W 0.100) drift 0.667 | retest rule 0.500 exc 0.087 5.4s
+seed 117 exc 0.2 schema_nogate          rule 0.786 exc_in 1.000 exc_beyond 0.348 (>4W 0.100) drift 0.667 | retest rule 0.571 exc 0.087 5.2s
+seed 117 exc 0.2 schema_surprise_pri    rule 0.786 exc_in 1.000 exc_beyond 0.348 (>4W 0.200) drift 0.667 | retest rule 0.429 exc 0.087 5.5s
+seed 117 exc 0.2 uniform_replay         rule 0.714 exc_in 1.000 exc_beyond 0.435 (>4W 0.200) drift 0.667 | retest rule 0.643 exc 0.087 5.1s
+seed 117 exc 0.2 sleep_all              rule 0.714 exc_in 1.000 exc_beyond 0.348 (>4W 0.100) drift 0.333 | retest rule 0.571 exc 0.130 5.1s
+seed 117 exc 0.2 arrival                rule 0.714 exc_in 1.000 exc_beyond 0.261 (>4W 0.200) drift 1.000 | retest rule 0.357 exc 0.043 6.7s
+seed 117 exc 0.2 surprise               rule 0.643 exc_in 1.000 exc_beyond 0.304 (>4W 0.200) drift 0.667 | retest rule 0.357 exc 0.174 7.1s
+seed 117 exc 0.5 teacher                rule 1.000 exc_in 0.857 exc_beyond 0.816 (>4W 0.720) drift 1.000 7.1s
+seed 117 exc 0.5 swa                    rule 0.400 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.8s
+seed 117 exc 0.5 swa_big                rule 0.900 exc_in 1.000 exc_beyond 0.306 (>4W 0.000) drift 1.000 4.6s
+seed 117 exc 0.5 hippo                  rule 0.900 exc_in 1.000 exc_beyond 0.551 (>4W 0.400) drift 0.500 | retest rule 0.000 exc 0.000 4.2s
+seed 117 exc 0.5 schema                 rule 0.900 exc_in 0.857 exc_beyond 0.449 (>4W 0.280) drift 1.000 | retest rule 0.300 exc 0.122 5.7s
+seed 117 exc 0.5 schema_nogate          rule 0.900 exc_in 0.857 exc_beyond 0.429 (>4W 0.280) drift 1.000 | retest rule 0.300 exc 0.122 5.5s
+seed 117 exc 0.5 schema_surprise_pri    rule 0.900 exc_in 0.857 exc_beyond 0.408 (>4W 0.320) drift 1.000 | retest rule 0.300 exc 0.245 5.7s
+seed 117 exc 0.5 uniform_replay         rule 0.900 exc_in 0.571 exc_beyond 0.429 (>4W 0.240) drift 1.000 | retest rule 0.300 exc 0.224 5.4s
+seed 117 exc 0.5 sleep_all              rule 0.800 exc_in 1.000 exc_beyond 0.469 (>4W 0.320) drift 1.000 | retest rule 0.200 exc 0.122 5.4s
+seed 117 exc 0.5 arrival                rule 0.700 exc_in 0.857 exc_beyond 0.388 (>4W 0.320) drift 0.500 | retest rule 0.100 exc 0.143 7.0s
+seed 117 exc 0.5 surprise               rule 0.900 exc_in 0.857 exc_beyond 0.408 (>4W 0.320) drift 1.000 | retest rule 0.300 exc 0.184 7.5s
+seed 118 exc 0.2 teacher                rule 0.833 exc_in 1.000 exc_beyond 0.900 (>4W 1.000) drift 0.333 6.1s
+seed 118 exc 0.2 swa                    rule 0.500 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.667 2.6s
+seed 118 exc 0.2 swa_big                rule 1.000 exc_in 1.000 exc_beyond 0.200 (>4W 0.000) drift 1.000 4.2s
+seed 118 exc 0.2 hippo                  rule 0.750 exc_in 1.000 exc_beyond 0.400 (>4W 0.308) drift 0.000 | retest rule 0.000 exc 0.000 4.0s
+seed 118 exc 0.2 schema                 rule 0.750 exc_in 1.000 exc_beyond 0.400 (>4W 0.385) drift 0.667 | retest rule 0.500 exc 0.200 5.3s
+seed 118 exc 0.2 schema_nogate          rule 0.833 exc_in 1.000 exc_beyond 0.350 (>4W 0.308) drift 0.667 | retest rule 0.500 exc 0.150 5.1s
+seed 118 exc 0.2 schema_surprise_pri    rule 0.833 exc_in 1.000 exc_beyond 0.400 (>4W 0.385) drift 0.333 | retest rule 0.417 exc 0.200 5.3s
+seed 118 exc 0.2 uniform_replay         rule 0.750 exc_in 1.000 exc_beyond 0.250 (>4W 0.077) drift 0.333 | retest rule 0.500 exc 0.050 5.1s
+seed 118 exc 0.2 sleep_all              rule 0.917 exc_in 1.000 exc_beyond 0.450 (>4W 0.385) drift 0.667 | retest rule 0.583 exc 0.200 5.0s
+seed 118 exc 0.2 arrival                rule 0.667 exc_in 1.000 exc_beyond 0.500 (>4W 0.462) drift 0.333 | retest rule 0.250 exc 0.200 6.6s
+seed 118 exc 0.2 surprise               rule 0.833 exc_in 1.000 exc_beyond 0.500 (>4W 0.308) drift 0.333 | retest rule 0.333 exc 0.350 7.0s
+seed 118 exc 0.5 teacher                rule 0.800 exc_in 1.000 exc_beyond 0.964 (>4W 0.960) drift 0.500 7.3s
+seed 118 exc 0.5 swa                    rule 0.300 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 2.9s
+seed 118 exc 0.5 swa_big                rule 0.800 exc_in 1.000 exc_beyond 0.273 (>4W 0.000) drift 0.750 4.7s
+seed 118 exc 0.5 hippo                  rule 0.500 exc_in 0.857 exc_beyond 0.327 (>4W 0.320) drift 0.250 | retest rule 0.000 exc 0.000 4.3s
+seed 118 exc 0.5 schema                 rule 0.500 exc_in 1.000 exc_beyond 0.291 (>4W 0.200) drift 0.250 | retest rule 0.100 exc 0.164 5.8s
+seed 118 exc 0.5 schema_nogate          rule 0.600 exc_in 1.000 exc_beyond 0.273 (>4W 0.200) drift 0.500 | retest rule 0.100 exc 0.164 5.6s
+seed 118 exc 0.5 schema_surprise_pri    rule 0.600 exc_in 0.857 exc_beyond 0.364 (>4W 0.360) drift 0.250 | retest rule 0.100 exc 0.200 5.8s
+seed 118 exc 0.5 uniform_replay         rule 0.600 exc_in 0.857 exc_beyond 0.309 (>4W 0.280) drift 0.500 | retest rule 0.200 exc 0.164 5.5s
+seed 118 exc 0.5 sleep_all              rule 0.600 exc_in 1.000 exc_beyond 0.291 (>4W 0.280) drift 0.750 | retest rule 0.100 exc 0.145 5.4s
+seed 118 exc 0.5 arrival                rule 0.600 exc_in 1.000 exc_beyond 0.309 (>4W 0.320) drift 0.500 | retest rule 0.300 exc 0.091 7.1s
+seed 118 exc 0.5 surprise               rule 0.600 exc_in 1.000 exc_beyond 0.291 (>4W 0.240) drift 0.500 | retest rule 0.300 exc 0.109 7.6s
+seed 119 exc 0.2 teacher                rule 0.714 exc_in 1.000 exc_beyond 0.760 (>4W 0.846) drift 0.250 6.3s
+seed 119 exc 0.2 swa                    rule 0.571 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.750 2.7s
+seed 119 exc 0.2 swa_big                rule 0.786 exc_in 1.000 exc_beyond 0.400 (>4W 0.000) drift 1.000 4.3s
+seed 119 exc 0.2 hippo                  rule 0.643 exc_in 1.000 exc_beyond 0.400 (>4W 0.462) drift 0.500 | retest rule 0.000 exc 0.000 4.0s
+seed 119 exc 0.2 schema                 rule 0.714 exc_in 1.000 exc_beyond 0.320 (>4W 0.308) drift 0.500 | retest rule 0.357 exc 0.160 5.4s
+seed 119 exc 0.2 schema_nogate          rule 0.714 exc_in 1.000 exc_beyond 0.320 (>4W 0.308) drift 0.500 | retest rule 0.286 exc 0.160 5.2s
+seed 119 exc 0.2 schema_surprise_pri    rule 0.643 exc_in 1.000 exc_beyond 0.360 (>4W 0.385) drift 0.250 | retest rule 0.429 exc 0.160 5.5s
+seed 119 exc 0.2 uniform_replay         rule 0.714 exc_in 1.000 exc_beyond 0.240 (>4W 0.231) drift 0.500 | retest rule 0.214 exc 0.080 5.1s
+seed 119 exc 0.2 sleep_all              rule 0.714 exc_in 1.000 exc_beyond 0.320 (>4W 0.308) drift 0.500 | retest rule 0.357 exc 0.160 5.1s
+seed 119 exc 0.2 arrival                rule 0.643 exc_in 1.000 exc_beyond 0.520 (>4W 0.538) drift 0.500 | retest rule 0.286 exc 0.280 6.7s
+seed 119 exc 0.2 surprise               rule 0.786 exc_in 1.000 exc_beyond 0.480 (>4W 0.462) drift 0.500 | retest rule 0.286 exc 0.240 7.1s
+seed 119 exc 0.5 teacher                rule 0.909 exc_in 0.923 exc_beyond 0.925 (>4W 0.906) drift 0.667 7.5s
+seed 119 exc 0.5 swa                    rule 0.273 exc_in 0.923 exc_beyond 0.000 (>4W 0.000) drift 0.000 2.9s
+seed 119 exc 0.5 swa_big                rule 0.636 exc_in 1.000 exc_beyond 0.245 (>4W 0.000) drift 0.667 4.8s
+seed 119 exc 0.5 hippo                  rule 0.545 exc_in 0.846 exc_beyond 0.396 (>4W 0.344) drift 0.667 | retest rule 0.000 exc 0.000 4.4s
+seed 119 exc 0.5 schema                 rule 0.455 exc_in 0.846 exc_beyond 0.358 (>4W 0.344) drift 0.333 | retest rule 0.182 exc 0.208 5.8s
+seed 119 exc 0.5 schema_nogate          rule 0.455 exc_in 0.769 exc_beyond 0.377 (>4W 0.375) drift 0.333 | retest rule 0.182 exc 0.189 5.6s
+seed 119 exc 0.5 schema_surprise_pri    rule 0.455 exc_in 0.846 exc_beyond 0.415 (>4W 0.375) drift 0.333 | retest rule 0.182 exc 0.245 5.9s
+seed 119 exc 0.5 uniform_replay         rule 0.455 exc_in 0.846 exc_beyond 0.264 (>4W 0.188) drift 0.333 | retest rule 0.273 exc 0.132 5.5s
+seed 119 exc 0.5 sleep_all              rule 0.455 exc_in 0.846 exc_beyond 0.396 (>4W 0.406) drift 0.333 | retest rule 0.273 exc 0.245 5.5s
+seed 119 exc 0.5 arrival                rule 0.727 exc_in 0.923 exc_beyond 0.340 (>4W 0.406) drift 0.667 | retest rule 0.000 exc 0.245 7.2s
+seed 119 exc 0.5 surprise               rule 0.727 exc_in 1.000 exc_beyond 0.358 (>4W 0.406) drift 0.667 | retest rule 0.091 exc 0.170 7.6s

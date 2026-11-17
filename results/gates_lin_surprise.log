@@ -1,0 +1,25 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 30169.07it/s]
+epoch 0 stream loss normal 2.391 retest 4.539 |gamma| 0.1946 max 0.200
+epoch 0 stream loss normal 3.207 retest 3.933 |gamma| 0.2666 max 0.400
+epoch 0 stream loss normal 1.915 retest 3.274 |gamma| 0.3226 max 0.599
+epoch 0 stream loss normal 3.100 retest 3.588 |gamma| 0.3715 max 0.784
+epoch 1 stream loss normal 2.673 retest 3.729 |gamma| 0.4054 max 0.979
+epoch 1 stream loss normal 2.546 retest 3.494 |gamma| 0.4335 max 1.179
+epoch 1 stream loss normal 1.904 retest 3.303 |gamma| 0.4568 max 1.380
+epoch 1 stream loss normal 3.185 retest 3.643 |gamma| 0.4750 max 1.577
+epoch 2 stream loss normal 2.690 retest 3.736 |gamma| 0.4880 max 1.771
+epoch 2 stream loss normal 2.567 retest 3.449 |gamma| 0.4999 max 1.961
+epoch 2 stream loss normal 2.246 retest 3.329 |gamma| 0.5084 max 2.124
+epoch 2 stream loss normal 2.963 retest 3.609 |gamma| 0.5172 max 2.289
+epoch 3 stream loss normal 2.535 retest 3.700 |gamma| 0.5250 max 2.432
+epoch 3 stream loss normal 2.500 retest 3.420 |gamma| 0.5318 max 2.572
+epoch 3 stream loss normal 1.895 retest 3.190 |gamma| 0.5387 max 2.702
+epoch 3 stream loss normal 3.089 retest 3.643 |gamma| 0.5464 max 2.835
+epoch 4 stream loss normal 2.702 retest 3.738 |gamma| 0.5512 max 2.955
+epoch 4 stream loss normal 2.601 retest 3.358 |gamma| 0.5544 max 3.070
+epoch 4 stream loss normal 1.898 retest 3.087 |gamma| 0.5579 max 3.174
+epoch 4 stream loss normal 2.834 retest 3.487 |gamma| 0.5615 max 3.277
+epoch 5 stream loss normal 2.532 retest 3.586 |gamma| 0.5648 max 3.338
+epoch 5 stream loss normal 2.238 retest 3.286 |gamma| 0.5689 max 3.376
+epoch 5 stream loss normal 1.782 retest 3.049 |gamma| 0.5717 max 3.391
+epoch 5 stream loss normal 2.660 retest 3.459 |gamma| 0.5744 max 3.391

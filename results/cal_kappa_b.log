@@ -1,0 +1,6 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 23818.06it/s]
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.9, 'r_min': 0} score 0.321  retest_rule 0.225  exc_beyond 0.416  retest_exc 0.173  rule 0.747
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.9, 'r_min': 1} score 0.160  retest_rule 0.000  exc_beyond 0.320  retest_exc 0.008  rule 0.704
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.9, 'r_min': 2} score 0.154  retest_rule 0.000  exc_beyond 0.308  retest_exc 0.000  rule 0.751
+schema_kappa         {'theta': 0.98, 'tau': 0.5, 'cue': 0.9, 'r_min': 5} score 0.154  retest_rule 0.000  exc_beyond 0.308  retest_exc 0.000  rule 0.751
+BEST schema_kappa: {"theta": 0.98, "tau": 0.5, "cue": 0.9, "r_min": 0} score 0.321

@@ -1,0 +1,21 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 29583.58it/s]
+uniform_replay       {'theta': 0.95, 'eta': 0.5} score 0.304  retest_rule 0.217  exc_beyond 0.390  retest_exc 0.227  rule 0.705
+sleep_all            {'theta': 0.95, 'eta': 0.5} score 0.323  retest_rule 0.268  exc_beyond 0.378  retest_exc 0.172  rule 0.753
+arrival              {'theta': 0.95, 'eta': 0.5} score 0.333  retest_rule 0.229  exc_beyond 0.437  retest_exc 0.223  rule 0.732
+surprise             {'theta': 0.95, 'eta': 0.5} score 0.352  retest_rule 0.262  exc_beyond 0.442  retest_exc 0.215  rule 0.736
+uniform_replay       {'theta': 0.95, 'eta': 1.0} score 0.304  retest_rule 0.218  exc_beyond 0.389  retest_exc 0.239  rule 0.667
+sleep_all            {'theta': 0.95, 'eta': 1.0} score 0.350  retest_rule 0.305  exc_beyond 0.394  retest_exc 0.186  rule 0.727
+arrival              {'theta': 0.95, 'eta': 1.0} score 0.303  retest_rule 0.143  exc_beyond 0.463  retest_exc 0.199  rule 0.761
+surprise             {'theta': 0.95, 'eta': 1.0} score 0.363  retest_rule 0.269  exc_beyond 0.457  retest_exc 0.230  rule 0.761
+uniform_replay       {'theta': 0.98, 'eta': 0.5} score 0.290  retest_rule 0.171  exc_beyond 0.410  retest_exc 0.219  rule 0.663
+sleep_all            {'theta': 0.98, 'eta': 0.5} score 0.278  retest_rule 0.186  exc_beyond 0.370  retest_exc 0.164  rule 0.692
+arrival              {'theta': 0.98, 'eta': 0.5} score 0.304  retest_rule 0.211  exc_beyond 0.397  retest_exc 0.183  rule 0.683
+surprise             {'theta': 0.98, 'eta': 0.5} score 0.307  retest_rule 0.228  exc_beyond 0.386  retest_exc 0.183  rule 0.723
+uniform_replay       {'theta': 0.98, 'eta': 1.0} score 0.309  retest_rule 0.235  exc_beyond 0.383  retest_exc 0.218  rule 0.617
+sleep_all            {'theta': 0.98, 'eta': 1.0} score 0.306  retest_rule 0.213  exc_beyond 0.399  retest_exc 0.178  rule 0.713
+arrival              {'theta': 0.98, 'eta': 1.0} score 0.328  retest_rule 0.252  exc_beyond 0.404  retest_exc 0.192  rule 0.712
+surprise             {'theta': 0.98, 'eta': 1.0} score 0.328  retest_rule 0.249  exc_beyond 0.407  retest_exc 0.173  rule 0.736
+BEST uniform_replay: {"theta": 0.98, "eta": 1.0} score 0.309
+BEST sleep_all: {"theta": 0.95, "eta": 1.0} score 0.350
+BEST arrival: {"theta": 0.95, "eta": 0.5} score 0.333
+BEST surprise: {"theta": 0.95, "eta": 1.0} score 0.363

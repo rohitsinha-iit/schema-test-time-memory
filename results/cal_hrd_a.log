@@ -1,0 +1,4 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 18293.52it/s]
+hrd_schema           {'n_steps': 8, 'r_min': 2, 'w_min': 0.3, 'lr': 0.001, 'tau': 0.5} score 0.167  retest_rule 0.150  exc_beyond 0.184  retest_exc 0.000  rule 0.665
+hrd_schema           {'n_steps': 8, 'r_min': 2, 'w_min': 0.3, 'lr': 0.001, 'tau': 1.5} score 0.160  retest_rule 0.143  exc_beyond 0.177  retest_exc 0.003  rule 0.704
+BEST hrd_schema: {"n_steps": 8, "r_min": 2, "w_min": 0.3, "lr": 0.001, "tau": 0.5} score 0.167

@@ -1,0 +1,58 @@
+results/stage0a_20261103_val.jsonl: 156 runs, 0 already done, 156 to run
+D:\NeuriAI\project\schema_mem\.venv\Lib\site-packages\numpy\linalg\_linalg.py:2784: RuntimeWarning: overflow encountered in dot
+  sqnorm = x.dot(x)
+D:\NeuriAI\project\schema_mem\sim\memories.py:196: RuntimeWarning: invalid value encountered in matmul
+  e = self.W @ k - v
+D:\NeuriAI\project\schema_mem\.venv\Lib\site-packages\numpy\linalg\_linalg.py:2784: RuntimeWarning: overflow encountered in dot
+  sqnorm = x.dot(x)
+D:\NeuriAI\project\schema_mem\sim\memories.py:196: RuntimeWarning: invalid value encountered in matmul
+  e = self.W @ k - v
+D:\NeuriAI\project\schema_mem\.venv\Lib\site-packages\numpy\linalg\_linalg.py:2784: RuntimeWarning: overflow encountered in dot
+  sqnorm = x.dot(x)
+D:\NeuriAI\project\schema_mem\sim\memories.py:196: RuntimeWarning: invalid value encountered in matmul
+  e = self.W @ k - v
+  50/156  69s  failures 0
+  100/156  86s  failures 0
+  150/156  102s  failures 0
+  156/156  104s  failures 0
+validation: failures 0, wall 104s
+chosen etas: {"arrival_fifo": 0.1, "schema": 0.5, "schema_dsum": 1.0, "schema_dsum_rho4": 0.5, "schema_fifo_evict": 0.5, "schema_nogate": 0.25, "schema_noreconsol": 2.0, "schema_nosupersede": 1.0, "schema_surprise_pri": 0.25, "schema_surprise_pri_dsum": 0.25, "sleep_all": 2.0, "surprise_fifo": 0.1, "uniform_replay": 2.0}
+results/stage0a_20261103_grid.jsonl: 1755 runs, 0 already done, 1755 to run
+  50/1755  9s  failures 0
+  100/1755  17s  failures 0
+  150/1755  24s  failures 0
+  200/1755  31s  failures 0
+  250/1755  38s  failures 0
+  300/1755  47s  failures 0
+  350/1755  76s  failures 0
+  400/1755  209s  failures 0
+  450/1755  288s  failures 0
+  500/1755  364s  failures 0
+  550/1755  467s  failures 0
+  600/1755  632s  failures 0
+  650/1755  783s  failures 0
+  700/1755  956s  failures 0
+  750/1755  1111s  failures 0
+  800/1755  1259s  failures 0
+  850/1755  1364s  failures 0
+  900/1755  1483s  failures 0
+  950/1755  1603s  failures 0
+  1000/1755  1746s  failures 0
+  1050/1755  1892s  failures 0
+  1100/1755  1927s  failures 0
+  1150/1755  1941s  failures 0
+  1200/1755  2073s  failures 0
+  1250/1755  2199s  failures 0
+  1300/1755  2214s  failures 0
+  1350/1755  2228s  failures 0
+  1400/1755  2242s  failures 0
+  1450/1755  2258s  failures 0
+  1500/1755  2277s  failures 0
+  1550/1755  2294s  failures 0
+  1600/1755  2312s  failures 0
+  1650/1755  2331s  failures 0
+  1700/1755  2348s  failures 0
+  1750/1755  2364s  failures 0
+  1755/1755  2365s  failures 0
+test grid: failures 0, wall 2365s
+grid rows 1755, with error 0

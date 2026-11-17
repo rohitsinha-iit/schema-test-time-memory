@@ -1,0 +1,402 @@
+params 2,893,080  vocab 1284  stream {'zipf': 0.0, 'filler_min': 0, 'filler_max': 0, 'probe_p': 0.5, 'key_len': 1, 'probe_delay': 'uniform_key'}
+step 25 loss 13.38 masked_loss 7.231 masked_acc 0.0001688 lr 0.00025 tokens_per_s 7.563e+04 elapsed_s 5.416 peak_mem_gb 0.882
+step 50 loss 11.93 masked_loss 6.694 masked_acc 0.000115 lr 0.0005 tokens_per_s 1.267e+05 elapsed_s 6.466 peak_mem_gb 0.882
+step 75 loss 11.05 masked_loss 6.345 masked_acc 0.002639 lr 0.00075 tokens_per_s 1.631e+05 elapsed_s 7.533 peak_mem_gb 0.882
+step 100 loss 10.68 masked_loss 6.297 masked_acc 0.002761 lr 0.001 tokens_per_s 1.905e+05 elapsed_s 8.601 peak_mem_gb 0.882 probe_acc_all 0.001107 probe_acc_within 0.001107 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 125 loss 10.6 masked_loss 6.24 masked_acc 0.005747 lr 0.001 tokens_per_s 2.103e+05 elapsed_s 9.739 peak_mem_gb 0.882
+step 150 loss 10.36 masked_loss 6.043 masked_acc 0.02776 lr 0.001 tokens_per_s 2.274e+05 elapsed_s 10.81 peak_mem_gb 0.882
+step 175 loss 10.12 masked_loss 5.856 masked_acc 0.04622 lr 0.001 tokens_per_s 2.414e+05 elapsed_s 11.88 peak_mem_gb 0.882
+step 200 loss 9.959 masked_loss 5.723 masked_acc 0.05588 lr 0.001 tokens_per_s 2.531e+05 elapsed_s 12.95 peak_mem_gb 0.882 probe_acc_all 0.07087 probe_acc_within 0.07087 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 225 loss 9.802 masked_loss 5.595 masked_acc 0.06374 lr 0.001 tokens_per_s 2.616e+05 elapsed_s 14.09 peak_mem_gb 0.882
+step 250 loss 9.686 masked_loss 5.5 masked_acc 0.06437 lr 0.001 tokens_per_s 2.703e+05 elapsed_s 15.15 peak_mem_gb 0.882
+step 275 loss 9.6 masked_loss 5.426 masked_acc 0.06698 lr 0.001 tokens_per_s 2.78e+05 elapsed_s 16.21 peak_mem_gb 0.882
+step 300 loss 9.539 masked_loss 5.372 masked_acc 0.06884 lr 0.001 tokens_per_s 2.847e+05 elapsed_s 17.26 peak_mem_gb 0.882 probe_acc_all 0.07392 probe_acc_within 0.07392 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 325 loss 9.46 masked_loss 5.31 masked_acc 0.06813 lr 0.001 tokens_per_s 2.893e+05 elapsed_s 18.41 peak_mem_gb 0.882
+step 350 loss 9.409 masked_loss 5.27 masked_acc 0.06805 lr 0.001 tokens_per_s 2.945e+05 elapsed_s 19.47 peak_mem_gb 0.882
+step 375 loss 9.369 masked_loss 5.232 masked_acc 0.07033 lr 0.001 tokens_per_s 2.99e+05 elapsed_s 20.55 peak_mem_gb 0.882
+step 400 loss 9.315 masked_loss 5.188 masked_acc 0.0694 lr 0.001 tokens_per_s 3.029e+05 elapsed_s 21.64 peak_mem_gb 0.882 probe_acc_all 0.07752 probe_acc_within 0.07752 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 425 loss 9.282 masked_loss 5.164 masked_acc 0.06866 lr 0.001 tokens_per_s 3.055e+05 elapsed_s 22.8 peak_mem_gb 0.882
+step 450 loss 9.236 masked_loss 5.127 masked_acc 0.07021 lr 0.001 tokens_per_s 3.089e+05 elapsed_s 23.86 peak_mem_gb 0.882
+step 475 loss 9.215 masked_loss 5.11 masked_acc 0.06925 lr 0.001 tokens_per_s 3.122e+05 elapsed_s 24.93 peak_mem_gb 0.882
+step 500 loss 9.172 masked_loss 5.073 masked_acc 0.07142 lr 0.001 tokens_per_s 3.148e+05 elapsed_s 26.02 peak_mem_gb 0.882 probe_acc_all 0.07364 probe_acc_within 0.07364 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 525 loss 9.142 masked_loss 5.05 masked_acc 0.06963 lr 0.001 tokens_per_s 3.164e+05 elapsed_s 27.18 peak_mem_gb 0.882
+step 550 loss 9.125 masked_loss 5.035 masked_acc 0.06993 lr 0.001 tokens_per_s 3.191e+05 elapsed_s 28.24 peak_mem_gb 0.882
+step 575 loss 9.115 masked_loss 5.021 masked_acc 0.07173 lr 0.001 tokens_per_s 3.215e+05 elapsed_s 29.3 peak_mem_gb 0.882
+step 600 loss 9.088 masked_loss 5.002 masked_acc 0.06976 lr 0.001 tokens_per_s 3.237e+05 elapsed_s 30.37 peak_mem_gb 0.882 probe_acc_all 0.08001 probe_acc_within 0.08001 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 625 loss 9.021 masked_loss 4.954 masked_acc 0.07299 lr 0.001 tokens_per_s 3.248e+05 elapsed_s 31.53 peak_mem_gb 0.882
+step 650 loss 9.025 masked_loss 4.953 masked_acc 0.07053 lr 0.001 tokens_per_s 3.267e+05 elapsed_s 32.6 peak_mem_gb 0.882
+step 675 loss 9.012 masked_loss 4.939 masked_acc 0.07043 lr 0.001 tokens_per_s 3.286e+05 elapsed_s 33.66 peak_mem_gb 0.882
+step 700 loss 8.983 masked_loss 4.918 masked_acc 0.07139 lr 0.001 tokens_per_s 3.305e+05 elapsed_s 34.7 peak_mem_gb 0.882 probe_acc_all 0.07724 probe_acc_within 0.07724 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 725 loss 8.964 masked_loss 4.902 masked_acc 0.06964 lr 0.001 tokens_per_s 3.315e+05 elapsed_s 35.84 peak_mem_gb 0.882
+step 750 loss 8.974 masked_loss 4.905 masked_acc 0.07001 lr 0.001 tokens_per_s 3.329e+05 elapsed_s 36.91 peak_mem_gb 0.882
+step 775 loss 8.924 masked_loss 4.869 masked_acc 0.07014 lr 0.001 tokens_per_s 3.344e+05 elapsed_s 37.97 peak_mem_gb 0.882
+step 800 loss 8.913 masked_loss 4.855 masked_acc 0.0687 lr 0.001 tokens_per_s 3.359e+05 elapsed_s 39.02 peak_mem_gb 0.882 probe_acc_all 0.0742 probe_acc_within 0.0742 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 825 loss 8.889 masked_loss 4.84 masked_acc 0.07149 lr 0.001 tokens_per_s 3.366e+05 elapsed_s 40.16 peak_mem_gb 0.882
+step 850 loss 8.875 masked_loss 4.827 masked_acc 0.0712 lr 0.001 tokens_per_s 3.38e+05 elapsed_s 41.21 peak_mem_gb 0.882
+step 875 loss 8.834 masked_loss 4.798 masked_acc 0.06941 lr 0.001 tokens_per_s 3.393e+05 elapsed_s 42.26 peak_mem_gb 0.882
+step 900 loss 8.838 masked_loss 4.795 masked_acc 0.06946 lr 0.001 tokens_per_s 3.405e+05 elapsed_s 43.31 peak_mem_gb 0.882 probe_acc_all 0.07558 probe_acc_within 0.07558 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 925 loss 8.858 masked_loss 4.808 masked_acc 0.06843 lr 0.001 tokens_per_s 3.41e+05 elapsed_s 44.45 peak_mem_gb 0.882
+step 950 loss 8.793 masked_loss 4.76 masked_acc 0.07083 lr 0.001 tokens_per_s 3.421e+05 elapsed_s 45.5 peak_mem_gb 0.882
+step 975 loss 8.8 masked_loss 4.761 masked_acc 0.07105 lr 0.001 tokens_per_s 3.43e+05 elapsed_s 46.57 peak_mem_gb 0.882
+step 1000 loss 8.749 masked_loss 4.726 masked_acc 0.07249 lr 0.001 tokens_per_s 3.441e+05 elapsed_s 47.61 peak_mem_gb 0.882 probe_acc_all 0.07614 probe_acc_within 0.07614 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 1025 loss 8.745 masked_loss 4.72 masked_acc 0.07217 lr 0.001 tokens_per_s 3.443e+05 elapsed_s 48.77 peak_mem_gb 0.882
+step 1050 loss 8.774 masked_loss 4.738 masked_acc 0.06953 lr 0.001 tokens_per_s 3.449e+05 elapsed_s 49.88 peak_mem_gb 0.882
+step 1075 loss 8.741 masked_loss 4.714 masked_acc 0.07015 lr 0.001 tokens_per_s 3.458e+05 elapsed_s 50.93 peak_mem_gb 0.882
+step 1100 loss 8.73 masked_loss 4.703 masked_acc 0.06852 lr 0.001 tokens_per_s 3.466e+05 elapsed_s 51.99 peak_mem_gb 0.882 probe_acc_all 0.0753 probe_acc_within 0.0753 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 1125 loss 8.71 masked_loss 4.692 masked_acc 0.06998 lr 0.001 tokens_per_s 3.469e+05 elapsed_s 53.13 peak_mem_gb 0.882
+step 1150 loss 8.676 masked_loss 4.662 masked_acc 0.06991 lr 0.001 tokens_per_s 3.478e+05 elapsed_s 54.17 peak_mem_gb 0.882
+step 1175 loss 8.683 masked_loss 4.667 masked_acc 0.07021 lr 0.001 tokens_per_s 3.486e+05 elapsed_s 55.23 peak_mem_gb 0.882
+step 1200 loss 8.652 masked_loss 4.643 masked_acc 0.06938 lr 0.001 tokens_per_s 3.494e+05 elapsed_s 56.27 peak_mem_gb 0.882 probe_acc_all 0.07586 probe_acc_within 0.07586 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 1225 loss 8.642 masked_loss 4.634 masked_acc 0.07022 lr 0.001 tokens_per_s 3.496e+05 elapsed_s 57.42 peak_mem_gb 0.882
+step 1250 loss 8.612 masked_loss 4.613 masked_acc 0.07093 lr 0.001 tokens_per_s 3.503e+05 elapsed_s 58.46 peak_mem_gb 0.882
+step 1275 loss 8.61 masked_loss 4.609 masked_acc 0.07048 lr 0.001 tokens_per_s 3.51e+05 elapsed_s 59.52 peak_mem_gb 0.882
+step 1300 loss 8.578 masked_loss 4.586 masked_acc 0.06982 lr 0.001 tokens_per_s 3.516e+05 elapsed_s 60.58 peak_mem_gb 0.882 probe_acc_all 0.07004 probe_acc_within 0.07004 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 1325 loss 8.587 masked_loss 4.594 masked_acc 0.06965 lr 0.001 tokens_per_s 3.518e+05 elapsed_s 61.71 peak_mem_gb 0.882
+step 1350 loss 8.545 masked_loss 4.57 masked_acc 0.07113 lr 0.001 tokens_per_s 3.524e+05 elapsed_s 62.76 peak_mem_gb 0.882
+step 1375 loss 8.558 masked_loss 4.577 masked_acc 0.06866 lr 0.001 tokens_per_s 3.529e+05 elapsed_s 63.84 peak_mem_gb 0.882
+step 1400 loss 8.514 masked_loss 4.555 masked_acc 0.07025 lr 0.001 tokens_per_s 3.535e+05 elapsed_s 64.89 peak_mem_gb 0.882 probe_acc_all 0.07254 probe_acc_within 0.07254 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 1425 loss 8.443 masked_loss 4.521 masked_acc 0.06989 lr 0.001 tokens_per_s 3.535e+05 elapsed_s 66.05 peak_mem_gb 0.882
+step 1450 loss 8.455 masked_loss 4.534 masked_acc 0.07019 lr 0.001 tokens_per_s 3.54e+05 elapsed_s 67.1 peak_mem_gb 0.882
+step 1475 loss 8.442 masked_loss 4.535 masked_acc 0.0685 lr 0.001 tokens_per_s 3.546e+05 elapsed_s 68.16 peak_mem_gb 0.882
+step 1500 loss 8.409 masked_loss 4.524 masked_acc 0.07056 lr 0.001 tokens_per_s 3.551e+05 elapsed_s 69.22 peak_mem_gb 0.882 probe_acc_all 0.0753 probe_acc_within 0.0753 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 1525 loss 8.39 masked_loss 4.515 masked_acc 0.06919 lr 0.001 tokens_per_s 3.552e+05 elapsed_s 70.35 peak_mem_gb 0.882
+step 1550 loss 8.353 masked_loss 4.5 masked_acc 0.06949 lr 0.001 tokens_per_s 3.556e+05 elapsed_s 71.41 peak_mem_gb 0.882
+step 1575 loss 8.298 masked_loss 4.475 masked_acc 0.07067 lr 0.001 tokens_per_s 3.561e+05 elapsed_s 72.46 peak_mem_gb 0.882
+step 1600 loss 8.307 masked_loss 4.481 masked_acc 0.06858 lr 0.001 tokens_per_s 3.567e+05 elapsed_s 73.5 peak_mem_gb 0.882 probe_acc_all 0.07032 probe_acc_within 0.07032 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 1625 loss 8.278 masked_loss 4.465 masked_acc 0.06937 lr 0.001 tokens_per_s 3.568e+05 elapsed_s 74.62 peak_mem_gb 0.882
+step 1650 loss 8.304 masked_loss 4.484 masked_acc 0.06847 lr 0.001 tokens_per_s 3.573e+05 elapsed_s 75.66 peak_mem_gb 0.882
+step 1675 loss 8.293 masked_loss 4.477 masked_acc 0.06811 lr 0.001 tokens_per_s 3.578e+05 elapsed_s 76.7 peak_mem_gb 0.882
+step 1700 loss 8.236 masked_loss 4.447 masked_acc 0.07122 lr 0.001 tokens_per_s 3.582e+05 elapsed_s 77.75 peak_mem_gb 0.882 probe_acc_all 0.07835 probe_acc_within 0.07835 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 1725 loss 8.196 masked_loss 4.425 masked_acc 0.06929 lr 0.001 tokens_per_s 3.583e+05 elapsed_s 78.88 peak_mem_gb 0.882
+step 1750 loss 8.211 masked_loss 4.436 masked_acc 0.07031 lr 0.001 tokens_per_s 3.588e+05 elapsed_s 79.91 peak_mem_gb 0.882
+step 1775 loss 8.217 masked_loss 4.439 masked_acc 0.0688 lr 0.001 tokens_per_s 3.592e+05 elapsed_s 80.96 peak_mem_gb 0.882
+step 1800 loss 8.176 masked_loss 4.414 masked_acc 0.06991 lr 0.001 tokens_per_s 3.597e+05 elapsed_s 82 peak_mem_gb 0.882 probe_acc_all 0.0742 probe_acc_within 0.0742 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 1825 loss 8.215 masked_loss 4.436 masked_acc 0.06778 lr 0.001 tokens_per_s 3.597e+05 elapsed_s 83.13 peak_mem_gb 0.882
+step 1850 loss 8.151 masked_loss 4.399 masked_acc 0.06952 lr 0.001 tokens_per_s 3.601e+05 elapsed_s 84.18 peak_mem_gb 0.882
+step 1875 loss 8.164 masked_loss 4.404 masked_acc 0.06894 lr 0.001 tokens_per_s 3.605e+05 elapsed_s 85.22 peak_mem_gb 0.882
+step 1900 loss 8.184 masked_loss 4.415 masked_acc 0.07018 lr 0.001 tokens_per_s 3.609e+05 elapsed_s 86.26 peak_mem_gb 0.882 probe_acc_all 0.07558 probe_acc_within 0.07558 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 1925 loss 8.127 masked_loss 4.384 masked_acc 0.069 lr 0.001 tokens_per_s 3.609e+05 elapsed_s 87.4 peak_mem_gb 0.882
+step 1950 loss 8.118 masked_loss 4.377 masked_acc 0.07009 lr 0.001 tokens_per_s 3.613e+05 elapsed_s 88.43 peak_mem_gb 0.882
+step 1975 loss 8.087 masked_loss 4.363 masked_acc 0.07002 lr 0.001 tokens_per_s 3.616e+05 elapsed_s 89.48 peak_mem_gb 0.882
+step 2000 loss 8.131 masked_loss 4.385 masked_acc 0.06986 lr 0.001 tokens_per_s 3.62e+05 elapsed_s 90.52 peak_mem_gb 0.882 probe_acc_all 0.07863 probe_acc_within 0.07863 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 2025 loss 8.115 masked_loss 4.373 masked_acc 0.06842 lr 0.001 tokens_per_s 3.619e+05 elapsed_s 91.67 peak_mem_gb 0.882
+step 2050 loss 8.081 masked_loss 4.351 masked_acc 0.07132 lr 0.001 tokens_per_s 3.621e+05 elapsed_s 92.76 peak_mem_gb 0.882
+step 2075 loss 8.089 masked_loss 4.359 masked_acc 0.06819 lr 0.001 tokens_per_s 3.622e+05 elapsed_s 93.85 peak_mem_gb 0.882
+step 2100 loss 8.074 masked_loss 4.35 masked_acc 0.06813 lr 0.001 tokens_per_s 3.625e+05 elapsed_s 94.91 peak_mem_gb 0.882 probe_acc_all 0.07032 probe_acc_within 0.07032 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 2125 loss 8.064 masked_loss 4.342 masked_acc 0.07017 lr 0.001 tokens_per_s 3.625e+05 elapsed_s 96.05 peak_mem_gb 0.882
+step 2150 loss 8.053 masked_loss 4.337 masked_acc 0.06832 lr 0.001 tokens_per_s 3.627e+05 elapsed_s 97.12 peak_mem_gb 0.882
+step 2175 loss 8.05 masked_loss 4.334 masked_acc 0.06975 lr 0.001 tokens_per_s 3.63e+05 elapsed_s 98.17 peak_mem_gb 0.882
+step 2200 loss 8.046 masked_loss 4.329 masked_acc 0.06753 lr 0.001 tokens_per_s 3.633e+05 elapsed_s 99.22 peak_mem_gb 0.882 probe_acc_all 0.0753 probe_acc_within 0.0753 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 2225 loss 8.027 masked_loss 4.319 masked_acc 0.06944 lr 0.001 tokens_per_s 3.632e+05 elapsed_s 100.4 peak_mem_gb 0.882
+step 2250 loss 8.065 masked_loss 4.337 masked_acc 0.06896 lr 0.001 tokens_per_s 3.635e+05 elapsed_s 101.4 peak_mem_gb 0.882
+step 2275 loss 8.028 masked_loss 4.319 masked_acc 0.06868 lr 0.001 tokens_per_s 3.638e+05 elapsed_s 102.4 peak_mem_gb 0.882
+step 2300 loss 8.018 masked_loss 4.313 masked_acc 0.0688 lr 0.001 tokens_per_s 3.641e+05 elapsed_s 103.5 peak_mem_gb 0.882 probe_acc_all 0.07558 probe_acc_within 0.07558 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 2325 loss 8.042 masked_loss 4.322 masked_acc 0.0684 lr 0.001 tokens_per_s 3.64e+05 elapsed_s 104.6 peak_mem_gb 0.882
+step 2350 loss 8.034 masked_loss 4.321 masked_acc 0.06926 lr 0.001 tokens_per_s 3.643e+05 elapsed_s 105.7 peak_mem_gb 0.882
+step 2375 loss 7.957 masked_loss 4.276 masked_acc 0.06937 lr 0.001 tokens_per_s 3.646e+05 elapsed_s 106.7 peak_mem_gb 0.882
+step 2400 loss 8.015 masked_loss 4.308 masked_acc 0.06893 lr 0.001 tokens_per_s 3.648e+05 elapsed_s 107.8 peak_mem_gb 0.882 probe_acc_all 0.0789 probe_acc_within 0.0789 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 2425 loss 7.993 masked_loss 4.296 masked_acc 0.06838 lr 0.001 tokens_per_s 3.648e+05 elapsed_s 108.9 peak_mem_gb 0.882
+step 2450 loss 7.994 masked_loss 4.297 masked_acc 0.06956 lr 0.001 tokens_per_s 3.651e+05 elapsed_s 110 peak_mem_gb 0.882
+step 2475 loss 7.986 masked_loss 4.296 masked_acc 0.06844 lr 0.001 tokens_per_s 3.653e+05 elapsed_s 111 peak_mem_gb 0.882
+step 2500 loss 7.953 masked_loss 4.269 masked_acc 0.06907 lr 0.001 tokens_per_s 3.656e+05 elapsed_s 112 peak_mem_gb 0.882 probe_acc_all 0.07752 probe_acc_within 0.07752 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 2525 loss 7.973 masked_loss 4.28 masked_acc 0.06802 lr 0.001 tokens_per_s 3.656e+05 elapsed_s 113.2 peak_mem_gb 0.882
+step 2550 loss 7.907 masked_loss 4.242 masked_acc 0.06986 lr 0.001 tokens_per_s 3.658e+05 elapsed_s 114.2 peak_mem_gb 0.882
+step 2575 loss 7.937 masked_loss 4.26 masked_acc 0.06999 lr 0.001 tokens_per_s 3.66e+05 elapsed_s 115.3 peak_mem_gb 0.882
+step 2600 loss 7.949 masked_loss 4.266 masked_acc 0.06946 lr 0.001 tokens_per_s 3.663e+05 elapsed_s 116.3 peak_mem_gb 0.882 probe_acc_all 0.06728 probe_acc_within 0.06728 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 2625 loss 7.936 masked_loss 4.26 masked_acc 0.06943 lr 0.001 tokens_per_s 3.662e+05 elapsed_s 117.5 peak_mem_gb 0.882
+step 2650 loss 7.953 masked_loss 4.266 masked_acc 0.06752 lr 0.001 tokens_per_s 3.664e+05 elapsed_s 118.5 peak_mem_gb 0.882
+step 2675 loss 7.941 masked_loss 4.26 masked_acc 0.06772 lr 0.001 tokens_per_s 3.666e+05 elapsed_s 119.6 peak_mem_gb 0.882
+step 2700 loss 7.94 masked_loss 4.252 masked_acc 0.06869 lr 0.001 tokens_per_s 3.668e+05 elapsed_s 120.6 peak_mem_gb 0.882 probe_acc_all 0.06672 probe_acc_within 0.06672 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 2725 loss 7.89 masked_loss 4.228 masked_acc 0.06925 lr 0.001 tokens_per_s 3.668e+05 elapsed_s 121.7 peak_mem_gb 0.882
+step 2750 loss 7.891 masked_loss 4.231 masked_acc 0.06972 lr 0.001 tokens_per_s 3.669e+05 elapsed_s 122.8 peak_mem_gb 0.882
+step 2775 loss 7.845 masked_loss 4.204 masked_acc 0.07108 lr 0.001 tokens_per_s 3.672e+05 elapsed_s 123.8 peak_mem_gb 0.882
+step 2800 loss 7.909 masked_loss 4.237 masked_acc 0.06831 lr 0.001 tokens_per_s 3.673e+05 elapsed_s 124.9 peak_mem_gb 0.882 probe_acc_all 0.07586 probe_acc_within 0.07586 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 2825 loss 7.907 masked_loss 4.234 masked_acc 0.06907 lr 0.001 tokens_per_s 3.672e+05 elapsed_s 126 peak_mem_gb 0.882
+step 2850 loss 7.919 masked_loss 4.24 masked_acc 0.06845 lr 0.001 tokens_per_s 3.674e+05 elapsed_s 127.1 peak_mem_gb 0.882
+step 2875 loss 7.888 masked_loss 4.223 masked_acc 0.0692 lr 0.001 tokens_per_s 3.676e+05 elapsed_s 128.1 peak_mem_gb 0.882
+step 2900 loss 7.865 masked_loss 4.216 masked_acc 0.06836 lr 0.001 tokens_per_s 3.678e+05 elapsed_s 129.2 peak_mem_gb 0.882 probe_acc_all 0.07004 probe_acc_within 0.07004 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 2925 loss 7.906 masked_loss 4.224 masked_acc 0.06868 lr 0.001 tokens_per_s 3.677e+05 elapsed_s 130.3 peak_mem_gb 0.882
+step 2950 loss 7.881 masked_loss 4.219 masked_acc 0.06852 lr 0.001 tokens_per_s 3.68e+05 elapsed_s 131.3 peak_mem_gb 0.882
+step 2975 loss 7.826 masked_loss 4.193 masked_acc 0.06826 lr 0.001 tokens_per_s 3.682e+05 elapsed_s 132.4 peak_mem_gb 0.882
+step 3000 loss 7.881 masked_loss 4.216 masked_acc 0.06777 lr 0.001 tokens_per_s 3.684e+05 elapsed_s 133.4 peak_mem_gb 0.882 probe_acc_all 0.07281 probe_acc_within 0.07281 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 3025 loss 7.855 masked_loss 4.202 masked_acc 0.06923 lr 0.001 tokens_per_s 3.684e+05 elapsed_s 134.5 peak_mem_gb 0.882
+step 3050 loss 7.849 masked_loss 4.196 masked_acc 0.06811 lr 0.001 tokens_per_s 3.686e+05 elapsed_s 135.6 peak_mem_gb 0.882
+step 3075 loss 7.869 masked_loss 4.207 masked_acc 0.06768 lr 0.001 tokens_per_s 3.687e+05 elapsed_s 136.6 peak_mem_gb 0.882
+step 3100 loss 7.81 masked_loss 4.178 masked_acc 0.06957 lr 0.001 tokens_per_s 3.689e+05 elapsed_s 137.7 peak_mem_gb 0.882 probe_acc_all 0.07226 probe_acc_within 0.07226 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 3125 loss 7.839 masked_loss 4.192 masked_acc 0.06767 lr 0.001 tokens_per_s 3.689e+05 elapsed_s 138.8 peak_mem_gb 0.882
+step 3150 loss 7.794 masked_loss 4.168 masked_acc 0.06837 lr 0.001 tokens_per_s 3.69e+05 elapsed_s 139.8 peak_mem_gb 0.882
+step 3175 loss 7.798 masked_loss 4.166 masked_acc 0.06926 lr 0.001 tokens_per_s 3.69e+05 elapsed_s 141 peak_mem_gb 0.882
+step 3200 loss 7.795 masked_loss 4.17 masked_acc 0.0683 lr 0.001 tokens_per_s 3.692e+05 elapsed_s 142 peak_mem_gb 0.882 probe_acc_all 0.07392 probe_acc_within 0.07392 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 3225 loss 7.81 masked_loss 4.173 masked_acc 0.06809 lr 0.001 tokens_per_s 3.693e+05 elapsed_s 143.1 peak_mem_gb 0.882
+step 3250 loss 7.794 masked_loss 4.161 masked_acc 0.06895 lr 0.001 tokens_per_s 3.695e+05 elapsed_s 144.1 peak_mem_gb 0.882
+step 3275 loss 7.785 masked_loss 4.162 masked_acc 0.06858 lr 0.001 tokens_per_s 3.698e+05 elapsed_s 145.1 peak_mem_gb 0.882
+step 3300 loss 7.832 masked_loss 4.185 masked_acc 0.06794 lr 0.001 tokens_per_s 3.7e+05 elapsed_s 146.1 peak_mem_gb 0.882 probe_acc_all 0.08084 probe_acc_within 0.08084 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 3325 loss 7.789 masked_loss 4.161 masked_acc 0.06886 lr 0.001 tokens_per_s 3.7e+05 elapsed_s 147.2 peak_mem_gb 0.882
+step 3350 loss 7.794 masked_loss 4.161 masked_acc 0.06923 lr 0.001 tokens_per_s 3.702e+05 elapsed_s 148.3 peak_mem_gb 0.882
+step 3375 loss 7.797 masked_loss 4.164 masked_acc 0.06714 lr 0.001 tokens_per_s 3.704e+05 elapsed_s 149.3 peak_mem_gb 0.882
+step 3400 loss 7.83 masked_loss 4.179 masked_acc 0.06935 lr 0.001 tokens_per_s 3.707e+05 elapsed_s 150.3 peak_mem_gb 0.882 probe_acc_all 0.07364 probe_acc_within 0.07364 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 3425 loss 7.841 masked_loss 4.182 masked_acc 0.06809 lr 0.001 tokens_per_s 3.708e+05 elapsed_s 151.3 peak_mem_gb 0.882
+step 3450 loss 7.818 masked_loss 4.175 masked_acc 0.06753 lr 0.001 tokens_per_s 3.71e+05 elapsed_s 152.4 peak_mem_gb 0.882
+step 3475 loss 7.799 masked_loss 4.158 masked_acc 0.06782 lr 0.001 tokens_per_s 3.713e+05 elapsed_s 153.4 peak_mem_gb 0.882
+step 3500 loss 7.803 masked_loss 4.167 masked_acc 0.06718 lr 0.001 tokens_per_s 3.715e+05 elapsed_s 154.3 peak_mem_gb 0.882 probe_acc_all 0.07614 probe_acc_within 0.07614 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 3525 loss 7.746 masked_loss 4.13 masked_acc 0.07 lr 0.001 tokens_per_s 3.717e+05 elapsed_s 155.4 peak_mem_gb 0.882
+step 3550 loss 7.754 masked_loss 4.133 masked_acc 0.06764 lr 0.001 tokens_per_s 3.719e+05 elapsed_s 156.4 peak_mem_gb 0.882
+step 3575 loss 7.761 masked_loss 4.141 masked_acc 0.06835 lr 0.001 tokens_per_s 3.721e+05 elapsed_s 157.4 peak_mem_gb 0.882
+step 3600 loss 7.786 masked_loss 4.146 masked_acc 0.06767 lr 0.001 tokens_per_s 3.723e+05 elapsed_s 158.4 peak_mem_gb 0.882 probe_acc_all 0.08112 probe_acc_within 0.08112 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 3625 loss 7.792 masked_loss 4.154 masked_acc 0.06713 lr 0.001 tokens_per_s 3.724e+05 elapsed_s 159.5 peak_mem_gb 0.882
+step 3650 loss 7.791 masked_loss 4.149 masked_acc 0.06695 lr 0.001 tokens_per_s 3.726e+05 elapsed_s 160.5 peak_mem_gb 0.882
+step 3675 loss 7.747 masked_loss 4.127 masked_acc 0.06819 lr 0.001 tokens_per_s 3.728e+05 elapsed_s 161.5 peak_mem_gb 0.882
+step 3700 loss 7.751 masked_loss 4.131 masked_acc 0.06907 lr 0.001 tokens_per_s 3.729e+05 elapsed_s 162.6 peak_mem_gb 0.882 probe_acc_all 0.07115 probe_acc_within 0.07115 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 3725 loss 7.733 masked_loss 4.124 masked_acc 0.06872 lr 0.001 tokens_per_s 3.729e+05 elapsed_s 163.7 peak_mem_gb 0.882
+step 3750 loss 7.808 masked_loss 4.158 masked_acc 0.06615 lr 0.001 tokens_per_s 3.73e+05 elapsed_s 164.7 peak_mem_gb 0.882
+step 3775 loss 7.723 masked_loss 4.111 masked_acc 0.06787 lr 0.001 tokens_per_s 3.733e+05 elapsed_s 165.7 peak_mem_gb 0.882
+step 3800 loss 7.769 masked_loss 4.14 masked_acc 0.06722 lr 0.001 tokens_per_s 3.735e+05 elapsed_s 166.7 peak_mem_gb 0.882 probe_acc_all 0.07614 probe_acc_within 0.07614 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 3825 loss 7.736 masked_loss 4.117 masked_acc 0.06766 lr 0.001 tokens_per_s 3.735e+05 elapsed_s 167.8 peak_mem_gb 0.882
+step 3850 loss 7.737 masked_loss 4.118 masked_acc 0.06886 lr 0.001 tokens_per_s 3.739e+05 elapsed_s 168.7 peak_mem_gb 0.882
+step 3875 loss 7.697 masked_loss 4.095 masked_acc 0.06902 lr 0.001 tokens_per_s 3.74e+05 elapsed_s 169.8 peak_mem_gb 0.882
+step 3900 loss 7.689 masked_loss 4.09 masked_acc 0.06867 lr 0.001 tokens_per_s 3.742e+05 elapsed_s 170.8 peak_mem_gb 0.882 probe_acc_all 0.07392 probe_acc_within 0.07392 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 3925 loss 7.725 masked_loss 4.11 masked_acc 0.06765 lr 0.001 tokens_per_s 3.742e+05 elapsed_s 171.8 peak_mem_gb 0.882
+step 3950 loss 7.668 masked_loss 4.079 masked_acc 0.06951 lr 0.001 tokens_per_s 3.744e+05 elapsed_s 172.9 peak_mem_gb 0.882
+step 3975 loss 7.746 masked_loss 4.118 masked_acc 0.06885 lr 0.001 tokens_per_s 3.746e+05 elapsed_s 173.9 peak_mem_gb 0.882
+step 4000 loss 7.726 masked_loss 4.106 masked_acc 0.06874 lr 0.001 tokens_per_s 3.748e+05 elapsed_s 174.9 peak_mem_gb 0.882 probe_acc_all 0.06866 probe_acc_within 0.06866 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 4025 loss 7.704 masked_loss 4.099 masked_acc 0.06676 lr 0.001 tokens_per_s 3.748e+05 elapsed_s 176 peak_mem_gb 0.882
+step 4050 loss 7.689 masked_loss 4.087 masked_acc 0.06787 lr 0.001 tokens_per_s 3.75e+05 elapsed_s 177 peak_mem_gb 0.882
+step 4075 loss 7.726 masked_loss 4.103 masked_acc 0.06808 lr 0.001 tokens_per_s 3.751e+05 elapsed_s 178 peak_mem_gb 0.882
+step 4100 loss 7.694 masked_loss 4.087 masked_acc 0.06803 lr 0.001 tokens_per_s 3.753e+05 elapsed_s 179 peak_mem_gb 0.882 probe_acc_all 0.07004 probe_acc_within 0.07004 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 4125 loss 7.732 masked_loss 4.109 masked_acc 0.06782 lr 0.001 tokens_per_s 3.753e+05 elapsed_s 180.1 peak_mem_gb 0.882
+step 4150 loss 7.687 masked_loss 4.087 masked_acc 0.06721 lr 0.001 tokens_per_s 3.755e+05 elapsed_s 181.1 peak_mem_gb 0.882
+step 4175 loss 7.753 masked_loss 4.118 masked_acc 0.06797 lr 0.001 tokens_per_s 3.756e+05 elapsed_s 182.1 peak_mem_gb 0.882
+step 4200 loss 7.666 masked_loss 4.071 masked_acc 0.0675 lr 0.001 tokens_per_s 3.758e+05 elapsed_s 183.1 peak_mem_gb 0.882 probe_acc_all 0.07309 probe_acc_within 0.07309 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 4225 loss 7.717 masked_loss 4.095 masked_acc 0.06726 lr 0.001 tokens_per_s 3.758e+05 elapsed_s 184.2 peak_mem_gb 0.882
+step 4250 loss 7.644 masked_loss 4.057 masked_acc 0.06916 lr 0.001 tokens_per_s 3.76e+05 elapsed_s 185.2 peak_mem_gb 0.882
+step 4275 loss 7.714 masked_loss 4.097 masked_acc 0.06671 lr 0.001 tokens_per_s 3.761e+05 elapsed_s 186.2 peak_mem_gb 0.882
+step 4300 loss 7.668 masked_loss 4.072 masked_acc 0.06807 lr 0.001 tokens_per_s 3.763e+05 elapsed_s 187.2 peak_mem_gb 0.882 probe_acc_all 0.07503 probe_acc_within 0.07503 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 4325 loss 7.692 masked_loss 4.08 masked_acc 0.06913 lr 0.001 tokens_per_s 3.764e+05 elapsed_s 188.3 peak_mem_gb 0.882
+step 4350 loss 7.657 masked_loss 4.07 masked_acc 0.06813 lr 0.001 tokens_per_s 3.765e+05 elapsed_s 189.3 peak_mem_gb 0.882
+step 4375 loss 7.681 masked_loss 4.08 masked_acc 0.0669 lr 0.001 tokens_per_s 3.767e+05 elapsed_s 190.3 peak_mem_gb 0.882
+step 4400 loss 7.669 masked_loss 4.068 masked_acc 0.0684 lr 0.001 tokens_per_s 3.768e+05 elapsed_s 191.3 peak_mem_gb 0.882 probe_acc_all 0.06949 probe_acc_within 0.06949 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 4425 loss 7.664 masked_loss 4.069 masked_acc 0.06797 lr 0.001 tokens_per_s 3.769e+05 elapsed_s 192.4 peak_mem_gb 0.882
+step 4450 loss 7.64 masked_loss 4.055 masked_acc 0.06874 lr 0.001 tokens_per_s 3.77e+05 elapsed_s 193.4 peak_mem_gb 0.882
+step 4475 loss 7.676 masked_loss 4.076 masked_acc 0.06816 lr 0.001 tokens_per_s 3.771e+05 elapsed_s 194.4 peak_mem_gb 0.882
+step 4500 loss 7.622 masked_loss 4.047 masked_acc 0.06848 lr 0.001 tokens_per_s 3.773e+05 elapsed_s 195.4 peak_mem_gb 0.882 probe_acc_all 0.07669 probe_acc_within 0.07669 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 4525 loss 7.681 masked_loss 4.073 masked_acc 0.06804 lr 0.001 tokens_per_s 3.773e+05 elapsed_s 196.5 peak_mem_gb 0.882
+step 4550 loss 7.612 masked_loss 4.04 masked_acc 0.0664 lr 0.001 tokens_per_s 3.774e+05 elapsed_s 197.5 peak_mem_gb 0.882
+step 4575 loss 7.648 masked_loss 4.054 masked_acc 0.06883 lr 0.001 tokens_per_s 3.776e+05 elapsed_s 198.5 peak_mem_gb 0.882
+step 4600 loss 7.665 masked_loss 4.058 masked_acc 0.06808 lr 0.001 tokens_per_s 3.778e+05 elapsed_s 199.5 peak_mem_gb 0.882 probe_acc_all 0.07309 probe_acc_within 0.07309 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 4625 loss 7.62 masked_loss 4.038 masked_acc 0.06754 lr 0.001 tokens_per_s 3.778e+05 elapsed_s 200.6 peak_mem_gb 0.882
+step 4650 loss 7.658 masked_loss 4.06 masked_acc 0.06693 lr 0.001 tokens_per_s 3.779e+05 elapsed_s 201.6 peak_mem_gb 0.882
+step 4675 loss 7.668 masked_loss 4.063 masked_acc 0.06785 lr 0.001 tokens_per_s 3.781e+05 elapsed_s 202.6 peak_mem_gb 0.882
+step 4700 loss 7.624 masked_loss 4.043 masked_acc 0.06696 lr 0.001 tokens_per_s 3.782e+05 elapsed_s 203.6 peak_mem_gb 0.882 probe_acc_all 0.06645 probe_acc_within 0.06645 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 4725 loss 7.64 masked_loss 4.045 masked_acc 0.06768 lr 0.001 tokens_per_s 3.783e+05 elapsed_s 204.6 peak_mem_gb 0.882
+step 4750 loss 7.642 masked_loss 4.049 masked_acc 0.06717 lr 0.001 tokens_per_s 3.784e+05 elapsed_s 205.7 peak_mem_gb 0.882
+step 4775 loss 7.658 masked_loss 4.059 masked_acc 0.06715 lr 0.001 tokens_per_s 3.786e+05 elapsed_s 206.7 peak_mem_gb 0.882
+step 4800 loss 7.679 masked_loss 4.066 masked_acc 0.06731 lr 0.001 tokens_per_s 3.787e+05 elapsed_s 207.7 peak_mem_gb 0.882 probe_acc_all 0.06977 probe_acc_within 0.06977 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 4825 loss 7.625 masked_loss 4.038 masked_acc 0.06751 lr 0.001 tokens_per_s 3.787e+05 elapsed_s 208.8 peak_mem_gb 0.882
+step 4850 loss 7.629 masked_loss 4.042 masked_acc 0.06705 lr 0.001 tokens_per_s 3.788e+05 elapsed_s 209.8 peak_mem_gb 0.882
+step 4875 loss 7.582 masked_loss 4.021 masked_acc 0.06669 lr 0.001 tokens_per_s 3.79e+05 elapsed_s 210.8 peak_mem_gb 0.882
+step 4900 loss 7.596 masked_loss 4.026 masked_acc 0.06667 lr 0.001 tokens_per_s 3.791e+05 elapsed_s 211.8 peak_mem_gb 0.882 probe_acc_all 0.07032 probe_acc_within 0.07032 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 4925 loss 7.597 masked_loss 4.02 masked_acc 0.06814 lr 0.001 tokens_per_s 3.792e+05 elapsed_s 212.8 peak_mem_gb 0.882
+step 4950 loss 7.563 masked_loss 4.005 masked_acc 0.06875 lr 0.001 tokens_per_s 3.793e+05 elapsed_s 213.8 peak_mem_gb 0.882
+step 4975 loss 7.565 masked_loss 4.003 masked_acc 0.06874 lr 0.001 tokens_per_s 3.794e+05 elapsed_s 214.8 peak_mem_gb 0.882
+step 5000 loss 7.579 masked_loss 4.017 masked_acc 0.06758 lr 0.001 tokens_per_s 3.795e+05 elapsed_s 215.9 peak_mem_gb 0.882 probe_acc_all 0.07475 probe_acc_within 0.07475 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 5025 loss 7.601 masked_loss 4.023 masked_acc 0.0685 lr 0.001 tokens_per_s 3.795e+05 elapsed_s 216.9 peak_mem_gb 0.882
+step 5050 loss 7.608 masked_loss 4.024 masked_acc 0.06781 lr 0.001 tokens_per_s 3.796e+05 elapsed_s 218 peak_mem_gb 0.882
+step 5075 loss 7.591 masked_loss 4.019 masked_acc 0.06748 lr 0.001 tokens_per_s 3.797e+05 elapsed_s 219 peak_mem_gb 0.882
+step 5100 loss 7.586 masked_loss 4.016 masked_acc 0.06786 lr 0.001 tokens_per_s 3.799e+05 elapsed_s 220 peak_mem_gb 0.882 probe_acc_all 0.07337 probe_acc_within 0.07337 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 5125 loss 7.628 masked_loss 4.034 masked_acc 0.06656 lr 0.001 tokens_per_s 3.799e+05 elapsed_s 221 peak_mem_gb 0.882
+step 5150 loss 7.57 masked_loss 4.007 masked_acc 0.06829 lr 0.001 tokens_per_s 3.8e+05 elapsed_s 222.1 peak_mem_gb 0.882
+step 5175 loss 7.568 masked_loss 4.003 masked_acc 0.06815 lr 0.001 tokens_per_s 3.801e+05 elapsed_s 223.1 peak_mem_gb 0.882
+step 5200 loss 7.587 masked_loss 4.013 masked_acc 0.06674 lr 0.001 tokens_per_s 3.802e+05 elapsed_s 224.1 peak_mem_gb 0.882 probe_acc_all 0.07337 probe_acc_within 0.07337 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 5225 loss 7.597 masked_loss 4.016 masked_acc 0.06774 lr 0.001 tokens_per_s 3.802e+05 elapsed_s 225.1 peak_mem_gb 0.882
+step 5250 loss 7.624 masked_loss 4.028 masked_acc 0.06666 lr 0.001 tokens_per_s 3.803e+05 elapsed_s 226.2 peak_mem_gb 0.882
+step 5275 loss 7.577 masked_loss 4.004 masked_acc 0.06892 lr 0.001 tokens_per_s 3.804e+05 elapsed_s 227.2 peak_mem_gb 0.882
+step 5300 loss 7.579 masked_loss 4.006 masked_acc 0.06743 lr 0.001 tokens_per_s 3.806e+05 elapsed_s 228.2 peak_mem_gb 0.882 probe_acc_all 0.07226 probe_acc_within 0.07226 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 5325 loss 7.568 masked_loss 3.999 masked_acc 0.06969 lr 0.001 tokens_per_s 3.806e+05 elapsed_s 229.2 peak_mem_gb 0.882
+step 5350 loss 7.574 masked_loss 4.009 masked_acc 0.06529 lr 0.001 tokens_per_s 3.807e+05 elapsed_s 230.2 peak_mem_gb 0.882
+step 5375 loss 7.565 masked_loss 3.998 masked_acc 0.06935 lr 0.001 tokens_per_s 3.809e+05 elapsed_s 231.2 peak_mem_gb 0.882
+step 5400 loss 7.605 masked_loss 4.017 masked_acc 0.06563 lr 0.001 tokens_per_s 3.81e+05 elapsed_s 232.2 peak_mem_gb 0.882 probe_acc_all 0.07337 probe_acc_within 0.07337 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 5425 loss 7.564 masked_loss 3.999 masked_acc 0.06742 lr 0.001 tokens_per_s 3.81e+05 elapsed_s 233.3 peak_mem_gb 0.882
+step 5450 loss 7.564 masked_loss 3.996 masked_acc 0.06727 lr 0.001 tokens_per_s 3.811e+05 elapsed_s 234.3 peak_mem_gb 0.882
+step 5475 loss 7.559 masked_loss 3.991 masked_acc 0.06808 lr 0.001 tokens_per_s 3.812e+05 elapsed_s 235.3 peak_mem_gb 0.882
+step 5500 loss 7.59 masked_loss 4.009 masked_acc 0.06634 lr 0.001 tokens_per_s 3.814e+05 elapsed_s 236.3 peak_mem_gb 0.882 probe_acc_all 0.07558 probe_acc_within 0.07558 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 5525 loss 7.557 masked_loss 3.992 masked_acc 0.0673 lr 0.001 tokens_per_s 3.814e+05 elapsed_s 237.3 peak_mem_gb 0.882
+step 5550 loss 7.56 masked_loss 3.997 masked_acc 0.06838 lr 0.001 tokens_per_s 3.815e+05 elapsed_s 238.3 peak_mem_gb 0.882
+step 5575 loss 7.585 masked_loss 4.005 masked_acc 0.06791 lr 0.001 tokens_per_s 3.816e+05 elapsed_s 239.3 peak_mem_gb 0.882
+step 5600 loss 7.595 masked_loss 4.008 masked_acc 0.06695 lr 0.001 tokens_per_s 3.817e+05 elapsed_s 240.3 peak_mem_gb 0.882 probe_acc_all 0.0753 probe_acc_within 0.0753 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 5625 loss 7.537 masked_loss 3.983 masked_acc 0.0672 lr 0.001 tokens_per_s 3.817e+05 elapsed_s 241.4 peak_mem_gb 0.882
+step 5650 loss 7.519 masked_loss 3.97 masked_acc 0.06846 lr 0.001 tokens_per_s 3.818e+05 elapsed_s 242.4 peak_mem_gb 0.882
+step 5675 loss 7.601 masked_loss 4.012 masked_acc 0.06606 lr 0.001 tokens_per_s 3.82e+05 elapsed_s 243.4 peak_mem_gb 0.882
+step 5700 loss 7.539 masked_loss 3.98 masked_acc 0.06735 lr 0.001 tokens_per_s 3.82e+05 elapsed_s 244.4 peak_mem_gb 0.882 probe_acc_all 0.07281 probe_acc_within 0.07281 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 5725 loss 7.572 masked_loss 3.998 masked_acc 0.06671 lr 0.001 tokens_per_s 3.82e+05 elapsed_s 245.5 peak_mem_gb 0.882
+step 5750 loss 7.54 masked_loss 3.983 masked_acc 0.06625 lr 0.001 tokens_per_s 3.821e+05 elapsed_s 246.5 peak_mem_gb 0.882
+step 5775 loss 7.52 masked_loss 3.971 masked_acc 0.06788 lr 0.001 tokens_per_s 3.822e+05 elapsed_s 247.5 peak_mem_gb 0.882
+step 5800 loss 7.58 masked_loss 3.999 masked_acc 0.06743 lr 0.001 tokens_per_s 3.823e+05 elapsed_s 248.5 peak_mem_gb 0.882 probe_acc_all 0.07254 probe_acc_within 0.07254 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 5825 loss 7.572 masked_loss 3.999 masked_acc 0.06633 lr 0.001 tokens_per_s 3.823e+05 elapsed_s 249.7 peak_mem_gb 0.882
+step 5850 loss 7.543 masked_loss 3.981 masked_acc 0.06767 lr 0.001 tokens_per_s 3.824e+05 elapsed_s 250.6 peak_mem_gb 0.882
+step 5875 loss 7.49 masked_loss 3.955 masked_acc 0.0684 lr 0.001 tokens_per_s 3.825e+05 elapsed_s 251.6 peak_mem_gb 0.882
+step 5900 loss 7.547 masked_loss 3.979 masked_acc 0.06807 lr 0.001 tokens_per_s 3.826e+05 elapsed_s 252.6 peak_mem_gb 0.882 probe_acc_all 0.07475 probe_acc_within 0.07475 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 5925 loss 7.541 masked_loss 3.978 masked_acc 0.06636 lr 0.001 tokens_per_s 3.826e+05 elapsed_s 253.7 peak_mem_gb 0.882
+step 5950 loss 7.538 masked_loss 3.98 masked_acc 0.06814 lr 0.001 tokens_per_s 3.827e+05 elapsed_s 254.7 peak_mem_gb 0.882
+step 5975 loss 7.498 masked_loss 3.961 masked_acc 0.06677 lr 0.001 tokens_per_s 3.828e+05 elapsed_s 255.7 peak_mem_gb 0.882
+step 6000 loss 7.511 masked_loss 3.966 masked_acc 0.06794 lr 0.001 tokens_per_s 3.829e+05 elapsed_s 256.8 peak_mem_gb 0.882 probe_acc_all 0.07475 probe_acc_within 0.07475 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 6025 loss 7.554 masked_loss 3.979 masked_acc 0.06627 lr 0.001 tokens_per_s 3.829e+05 elapsed_s 257.8 peak_mem_gb 0.882
+step 6050 loss 7.539 masked_loss 3.979 masked_acc 0.06581 lr 0.001 tokens_per_s 3.829e+05 elapsed_s 258.9 peak_mem_gb 0.882
+step 6075 loss 7.542 masked_loss 3.979 masked_acc 0.06639 lr 0.001 tokens_per_s 3.83e+05 elapsed_s 259.9 peak_mem_gb 0.882
+step 6100 loss 7.527 masked_loss 3.966 masked_acc 0.06801 lr 0.001 tokens_per_s 3.831e+05 elapsed_s 260.9 peak_mem_gb 0.882 probe_acc_all 0.06977 probe_acc_within 0.06977 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 6125 loss 7.554 masked_loss 3.987 masked_acc 0.06707 lr 0.001 tokens_per_s 3.83e+05 elapsed_s 262 peak_mem_gb 0.882
+step 6150 loss 7.548 masked_loss 3.975 masked_acc 0.06847 lr 0.001 tokens_per_s 3.831e+05 elapsed_s 263 peak_mem_gb 0.882
+step 6175 loss 7.537 masked_loss 3.978 masked_acc 0.06644 lr 0.001 tokens_per_s 3.832e+05 elapsed_s 264 peak_mem_gb 0.882
+step 6200 loss 7.487 masked_loss 3.95 masked_acc 0.06758 lr 0.001 tokens_per_s 3.833e+05 elapsed_s 265 peak_mem_gb 0.882 probe_acc_all 0.07614 probe_acc_within 0.07614 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 6225 loss 7.512 masked_loss 3.963 masked_acc 0.06578 lr 0.001 tokens_per_s 3.832e+05 elapsed_s 266.1 peak_mem_gb 0.882
+step 6250 loss 7.55 masked_loss 3.982 masked_acc 0.06554 lr 0.001 tokens_per_s 3.833e+05 elapsed_s 267.2 peak_mem_gb 0.882
+step 6275 loss 7.52 masked_loss 3.966 masked_acc 0.06628 lr 0.001 tokens_per_s 3.833e+05 elapsed_s 268.2 peak_mem_gb 0.882
+step 6300 loss 7.5 masked_loss 3.95 masked_acc 0.06679 lr 0.001 tokens_per_s 3.834e+05 elapsed_s 269.2 peak_mem_gb 0.882 probe_acc_all 0.07447 probe_acc_within 0.07447 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 6325 loss 7.532 masked_loss 3.965 masked_acc 0.06722 lr 0.001 tokens_per_s 3.834e+05 elapsed_s 270.3 peak_mem_gb 0.882
+step 6350 loss 7.485 masked_loss 3.951 masked_acc 0.0686 lr 0.001 tokens_per_s 3.832e+05 elapsed_s 271.5 peak_mem_gb 0.882
+step 6375 loss 7.514 masked_loss 3.958 masked_acc 0.06705 lr 0.001 tokens_per_s 3.818e+05 elapsed_s 273.6 peak_mem_gb 0.882
+step 6400 loss 7.528 masked_loss 3.966 masked_acc 0.06737 lr 0.001 tokens_per_s 3.806e+05 elapsed_s 275.5 peak_mem_gb 0.882 probe_acc_all 0.07475 probe_acc_within 0.07475 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 6425 loss 7.491 masked_loss 3.949 masked_acc 0.06773 lr 0.001 tokens_per_s 3.79e+05 elapsed_s 277.7 peak_mem_gb 0.882
+step 6450 loss 7.522 masked_loss 3.963 masked_acc 0.06682 lr 0.001 tokens_per_s 3.78e+05 elapsed_s 279.6 peak_mem_gb 0.882
+step 6475 loss 7.514 masked_loss 3.96 masked_acc 0.06687 lr 0.001 tokens_per_s 3.768e+05 elapsed_s 281.5 peak_mem_gb 0.882
+step 6500 loss 7.504 masked_loss 3.955 masked_acc 0.06661 lr 0.001 tokens_per_s 3.756e+05 elapsed_s 283.5 peak_mem_gb 0.882 probe_acc_all 0.07032 probe_acc_within 0.07032 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 6525 loss 7.505 masked_loss 3.957 masked_acc 0.06616 lr 0.001 tokens_per_s 3.743e+05 elapsed_s 285.7 peak_mem_gb 0.882
+step 6550 loss 7.528 masked_loss 3.968 masked_acc 0.06681 lr 0.001 tokens_per_s 3.732e+05 elapsed_s 287.5 peak_mem_gb 0.882
+step 6575 loss 7.549 masked_loss 3.972 masked_acc 0.06723 lr 0.001 tokens_per_s 3.721e+05 elapsed_s 289.5 peak_mem_gb 0.882
+step 6600 loss 7.575 masked_loss 3.989 masked_acc 0.0657 lr 0.001 tokens_per_s 3.71e+05 elapsed_s 291.5 peak_mem_gb 0.882 probe_acc_all 0.07143 probe_acc_within 0.07143 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 6625 loss 7.484 masked_loss 3.941 masked_acc 0.06759 lr 0.001 tokens_per_s 3.695e+05 elapsed_s 293.7 peak_mem_gb 0.882
+step 6650 loss 7.515 masked_loss 3.957 masked_acc 0.06688 lr 0.001 tokens_per_s 3.684e+05 elapsed_s 295.7 peak_mem_gb 0.882
+step 6675 loss 7.481 masked_loss 3.944 masked_acc 0.06679 lr 0.001 tokens_per_s 3.674e+05 elapsed_s 297.7 peak_mem_gb 0.882
+step 6700 loss 7.476 masked_loss 3.936 masked_acc 0.06607 lr 0.001 tokens_per_s 3.664e+05 elapsed_s 299.6 peak_mem_gb 0.882 probe_acc_all 0.06921 probe_acc_within 0.06921 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 6725 loss 7.506 masked_loss 3.95 masked_acc 0.06797 lr 0.001 tokens_per_s 3.652e+05 elapsed_s 301.7 peak_mem_gb 0.882
+step 6750 loss 7.438 masked_loss 3.917 masked_acc 0.06832 lr 0.001 tokens_per_s 3.641e+05 elapsed_s 303.7 peak_mem_gb 0.882
+step 6775 loss 7.472 masked_loss 3.934 masked_acc 0.06773 lr 0.001 tokens_per_s 3.631e+05 elapsed_s 305.7 peak_mem_gb 0.882
+step 6800 loss 7.516 masked_loss 3.955 masked_acc 0.0667 lr 0.001 tokens_per_s 3.621e+05 elapsed_s 307.7 peak_mem_gb 0.882 probe_acc_all 0.07087 probe_acc_within 0.07087 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 6825 loss 7.51 masked_loss 3.953 masked_acc 0.06595 lr 0.001 tokens_per_s 3.607e+05 elapsed_s 310 peak_mem_gb 0.882
+step 6850 loss 7.44 masked_loss 3.919 masked_acc 0.06654 lr 0.001 tokens_per_s 3.598e+05 elapsed_s 311.9 peak_mem_gb 0.882
+step 6875 loss 7.473 masked_loss 3.934 masked_acc 0.06677 lr 0.001 tokens_per_s 3.588e+05 elapsed_s 313.9 peak_mem_gb 0.882
+step 6900 loss 7.493 masked_loss 3.942 masked_acc 0.06787 lr 0.001 tokens_per_s 3.578e+05 elapsed_s 316 peak_mem_gb 0.882 probe_acc_all 0.06866 probe_acc_within 0.06866 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 6925 loss 7.479 masked_loss 3.936 masked_acc 0.06782 lr 0.001 tokens_per_s 3.566e+05 elapsed_s 318.2 peak_mem_gb 0.882
+step 6950 loss 7.495 masked_loss 3.945 masked_acc 0.06716 lr 0.001 tokens_per_s 3.556e+05 elapsed_s 320.2 peak_mem_gb 0.882
+step 6975 loss 7.479 masked_loss 3.936 masked_acc 0.06775 lr 0.001 tokens_per_s 3.547e+05 elapsed_s 322.2 peak_mem_gb 0.882
+step 7000 loss 7.48 masked_loss 3.939 masked_acc 0.06613 lr 0.001 tokens_per_s 3.538e+05 elapsed_s 324.2 peak_mem_gb 0.882 probe_acc_all 0.07364 probe_acc_within 0.07364 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 7025 loss 7.494 masked_loss 3.943 masked_acc 0.06746 lr 0.001 tokens_per_s 3.515e+05 elapsed_s 327.4 peak_mem_gb 0.882
+step 7050 loss 7.489 masked_loss 3.944 masked_acc 0.06649 lr 0.001 tokens_per_s 3.508e+05 elapsed_s 329.3 peak_mem_gb 0.882
+step 7075 loss 7.452 masked_loss 3.924 masked_acc 0.06572 lr 0.001 tokens_per_s 3.496e+05 elapsed_s 331.6 peak_mem_gb 0.882
+step 7100 loss 7.521 masked_loss 3.959 masked_acc 0.06523 lr 0.001 tokens_per_s 3.49e+05 elapsed_s 333.3 peak_mem_gb 0.882 probe_acc_all 0.06672 probe_acc_within 0.06672 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 7125 loss 7.449 masked_loss 3.921 masked_acc 0.06654 lr 0.001 tokens_per_s 3.479e+05 elapsed_s 335.5 peak_mem_gb 0.882
+step 7150 loss 7.494 masked_loss 3.942 masked_acc 0.06449 lr 0.001 tokens_per_s 3.471e+05 elapsed_s 337.5 peak_mem_gb 0.882
+step 7175 loss 7.438 masked_loss 3.913 masked_acc 0.06607 lr 0.001 tokens_per_s 3.463e+05 elapsed_s 339.4 peak_mem_gb 0.882
+step 7200 loss 7.502 masked_loss 3.945 masked_acc 0.06624 lr 0.001 tokens_per_s 3.456e+05 elapsed_s 341.3 peak_mem_gb 0.882 probe_acc_all 0.0706 probe_acc_within 0.0706 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 7225 loss 7.447 masked_loss 3.918 masked_acc 0.06712 lr 0.001 tokens_per_s 3.446e+05 elapsed_s 343.5 peak_mem_gb 0.882
+step 7250 loss 7.416 masked_loss 3.899 masked_acc 0.06804 lr 0.001 tokens_per_s 3.439e+05 elapsed_s 345.4 peak_mem_gb 0.882
+step 7275 loss 7.53 masked_loss 3.96 masked_acc 0.06506 lr 0.001 tokens_per_s 3.431e+05 elapsed_s 347.4 peak_mem_gb 0.882
+step 7300 loss 7.474 masked_loss 3.932 masked_acc 0.06761 lr 0.001 tokens_per_s 3.424e+05 elapsed_s 349.3 peak_mem_gb 0.882 probe_acc_all 0.06561 probe_acc_within 0.06561 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 7325 loss 7.434 masked_loss 3.915 masked_acc 0.06748 lr 0.001 tokens_per_s 3.414e+05 elapsed_s 351.5 peak_mem_gb 0.882
+step 7350 loss 7.487 masked_loss 3.937 masked_acc 0.06697 lr 0.001 tokens_per_s 3.407e+05 elapsed_s 353.4 peak_mem_gb 0.882
+step 7375 loss 7.476 masked_loss 3.934 masked_acc 0.06681 lr 0.001 tokens_per_s 3.4e+05 elapsed_s 355.4 peak_mem_gb 0.882
+step 7400 loss 7.488 masked_loss 3.932 masked_acc 0.06697 lr 0.001 tokens_per_s 3.392e+05 elapsed_s 357.4 peak_mem_gb 0.882 probe_acc_all 0.07309 probe_acc_within 0.07309 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 7425 loss 7.471 masked_loss 3.93 masked_acc 0.0679 lr 0.001 tokens_per_s 3.383e+05 elapsed_s 359.6 peak_mem_gb 0.882
+step 7450 loss 7.436 masked_loss 3.908 masked_acc 0.06615 lr 0.001 tokens_per_s 3.376e+05 elapsed_s 361.5 peak_mem_gb 0.882
+step 7475 loss 7.441 masked_loss 3.913 masked_acc 0.06679 lr 0.001 tokens_per_s 3.369e+05 elapsed_s 363.5 peak_mem_gb 0.882
+step 7500 loss 7.438 masked_loss 3.915 masked_acc 0.06624 lr 0.001 tokens_per_s 3.362e+05 elapsed_s 365.5 peak_mem_gb 0.882 probe_acc_all 0.06866 probe_acc_within 0.06866 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 7525 loss 7.482 masked_loss 3.932 masked_acc 0.06621 lr 0.001 tokens_per_s 3.354e+05 elapsed_s 367.6 peak_mem_gb 0.882
+step 7550 loss 7.47 masked_loss 3.927 masked_acc 0.06714 lr 0.001 tokens_per_s 3.347e+05 elapsed_s 369.5 peak_mem_gb 0.882
+step 7575 loss 7.466 masked_loss 3.925 masked_acc 0.06778 lr 0.001 tokens_per_s 3.341e+05 elapsed_s 371.5 peak_mem_gb 0.882
+step 7600 loss 7.425 masked_loss 3.904 masked_acc 0.06746 lr 0.001 tokens_per_s 3.334e+05 elapsed_s 373.5 peak_mem_gb 0.882 probe_acc_all 0.06949 probe_acc_within 0.06949 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 7625 loss 7.482 masked_loss 3.928 masked_acc 0.06704 lr 0.001 tokens_per_s 3.325e+05 elapsed_s 375.7 peak_mem_gb 0.882
+step 7650 loss 7.469 masked_loss 3.926 masked_acc 0.06751 lr 0.001 tokens_per_s 3.32e+05 elapsed_s 377.6 peak_mem_gb 0.882
+step 7675 loss 7.432 masked_loss 3.912 masked_acc 0.067 lr 0.001 tokens_per_s 3.313e+05 elapsed_s 379.6 peak_mem_gb 0.882
+step 7700 loss 7.401 masked_loss 3.894 masked_acc 0.0688 lr 0.001 tokens_per_s 3.307e+05 elapsed_s 381.5 peak_mem_gb 0.882 probe_acc_all 0.07392 probe_acc_within 0.07392 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 7725 loss 7.402 masked_loss 3.892 masked_acc 0.06657 lr 0.001 tokens_per_s 3.299e+05 elapsed_s 383.6 peak_mem_gb 0.882
+step 7750 loss 7.432 masked_loss 3.91 masked_acc 0.06792 lr 0.001 tokens_per_s 3.293e+05 elapsed_s 385.6 peak_mem_gb 0.882
+step 7775 loss 7.467 masked_loss 3.927 masked_acc 0.06555 lr 0.001 tokens_per_s 3.288e+05 elapsed_s 387.4 peak_mem_gb 0.882
+step 7800 loss 7.426 masked_loss 3.9 masked_acc 0.06711 lr 0.001 tokens_per_s 3.283e+05 elapsed_s 389.2 peak_mem_gb 0.882 probe_acc_all 0.07281 probe_acc_within 0.07281 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 7825 loss 7.407 masked_loss 3.896 masked_acc 0.06922 lr 0.001 tokens_per_s 3.276e+05 elapsed_s 391.4 peak_mem_gb 0.882
+step 7850 loss 7.43 masked_loss 3.91 masked_acc 0.06556 lr 0.001 tokens_per_s 3.271e+05 elapsed_s 393.2 peak_mem_gb 0.882
+step 7875 loss 7.469 masked_loss 3.928 masked_acc 0.0665 lr 0.001 tokens_per_s 3.265e+05 elapsed_s 395.1 peak_mem_gb 0.882
+step 7900 loss 7.463 masked_loss 3.918 masked_acc 0.06568 lr 0.001 tokens_per_s 3.262e+05 elapsed_s 396.8 peak_mem_gb 0.882 probe_acc_all 0.07669 probe_acc_within 0.07669 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 7925 loss 7.417 masked_loss 3.9 masked_acc 0.06839 lr 0.001 tokens_per_s 3.258e+05 elapsed_s 398.5 peak_mem_gb 0.882
+step 7950 loss 7.458 masked_loss 3.917 masked_acc 0.06705 lr 0.001 tokens_per_s 3.256e+05 elapsed_s 400.1 peak_mem_gb 0.882
+step 7975 loss 7.462 masked_loss 3.925 masked_acc 0.06703 lr 0.001 tokens_per_s 3.254e+05 elapsed_s 401.6 peak_mem_gb 0.882
+step 8000 loss 7.425 masked_loss 3.901 masked_acc 0.06841 lr 0.001 tokens_per_s 3.251e+05 elapsed_s 403.1 peak_mem_gb 0.882 probe_acc_all 0.08029 probe_acc_within 0.08029 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 8025 loss 7.446 masked_loss 3.908 masked_acc 0.06696 lr 0.001 tokens_per_s 3.244e+05 elapsed_s 405.3 peak_mem_gb 0.882
+step 8050 loss 7.37 masked_loss 3.878 masked_acc 0.06802 lr 0.001 tokens_per_s 3.237e+05 elapsed_s 407.4 peak_mem_gb 0.882
+step 8075 loss 7.424 masked_loss 3.9 masked_acc 0.06691 lr 0.001 tokens_per_s 3.234e+05 elapsed_s 409 peak_mem_gb 0.882
+step 8100 loss 7.446 masked_loss 3.911 masked_acc 0.06593 lr 0.001 tokens_per_s 3.23e+05 elapsed_s 410.9 peak_mem_gb 0.882 probe_acc_all 0.07226 probe_acc_within 0.07226 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 8125 loss 7.424 masked_loss 3.9 masked_acc 0.067 lr 0.001 tokens_per_s 3.227e+05 elapsed_s 412.5 peak_mem_gb 0.882
+step 8150 loss 7.402 masked_loss 3.893 masked_acc 0.06522 lr 0.001 tokens_per_s 3.225e+05 elapsed_s 414.1 peak_mem_gb 0.882
+step 8175 loss 7.436 masked_loss 3.905 masked_acc 0.06695 lr 0.001 tokens_per_s 3.223e+05 elapsed_s 415.6 peak_mem_gb 0.882
+step 8200 loss 7.444 masked_loss 3.907 masked_acc 0.06684 lr 0.001 tokens_per_s 3.221e+05 elapsed_s 417.1 peak_mem_gb 0.882 probe_acc_all 0.07586 probe_acc_within 0.07586 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 8225 loss 7.407 masked_loss 3.893 masked_acc 0.06764 lr 0.001 tokens_per_s 3.215e+05 elapsed_s 419.2 peak_mem_gb 0.882
+step 8250 loss 7.434 masked_loss 3.909 masked_acc 0.06761 lr 0.001 tokens_per_s 3.211e+05 elapsed_s 421 peak_mem_gb 0.882
+step 8275 loss 7.382 masked_loss 3.883 masked_acc 0.06621 lr 0.001 tokens_per_s 3.205e+05 elapsed_s 423 peak_mem_gb 0.882
+step 8300 loss 7.423 masked_loss 3.903 masked_acc 0.06625 lr 0.001 tokens_per_s 3.201e+05 elapsed_s 424.8 peak_mem_gb 0.882 probe_acc_all 0.06534 probe_acc_within 0.06534 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 8325 loss 7.446 masked_loss 3.91 masked_acc 0.06745 lr 0.001 tokens_per_s 3.195e+05 elapsed_s 427 peak_mem_gb 0.882
+step 8350 loss 7.406 masked_loss 3.89 masked_acc 0.068 lr 0.001 tokens_per_s 3.19e+05 elapsed_s 428.9 peak_mem_gb 0.882
+step 8375 loss 7.423 masked_loss 3.902 masked_acc 0.06572 lr 0.001 tokens_per_s 3.185e+05 elapsed_s 430.9 peak_mem_gb 0.882
+step 8400 loss 7.388 masked_loss 3.887 masked_acc 0.06579 lr 0.001 tokens_per_s 3.179e+05 elapsed_s 432.9 peak_mem_gb 0.882 probe_acc_all 0.07475 probe_acc_within 0.07475 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 8425 loss 7.461 masked_loss 3.922 masked_acc 0.0652 lr 0.001 tokens_per_s 3.173e+05 elapsed_s 435 peak_mem_gb 0.882
+step 8450 loss 7.395 masked_loss 3.887 masked_acc 0.06811 lr 0.001 tokens_per_s 3.169e+05 elapsed_s 436.9 peak_mem_gb 0.882
+step 8475 loss 7.359 masked_loss 3.872 masked_acc 0.06781 lr 0.001 tokens_per_s 3.164e+05 elapsed_s 438.9 peak_mem_gb 0.882
+step 8500 loss 7.399 masked_loss 3.891 masked_acc 0.06865 lr 0.001 tokens_per_s 3.159e+05 elapsed_s 440.9 peak_mem_gb 0.882 probe_acc_all 0.07226 probe_acc_within 0.07226 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 8525 loss 7.385 masked_loss 3.881 masked_acc 0.06569 lr 0.001 tokens_per_s 3.153e+05 elapsed_s 442.9 peak_mem_gb 0.882
+step 8550 loss 7.404 masked_loss 3.894 masked_acc 0.0661 lr 0.001 tokens_per_s 3.149e+05 elapsed_s 444.8 peak_mem_gb 0.882
+step 8575 loss 7.423 masked_loss 3.901 masked_acc 0.06636 lr 0.001 tokens_per_s 3.145e+05 elapsed_s 446.7 peak_mem_gb 0.882
+step 8600 loss 7.403 masked_loss 3.889 masked_acc 0.06693 lr 0.001 tokens_per_s 3.141e+05 elapsed_s 448.6 peak_mem_gb 0.882 probe_acc_all 0.07614 probe_acc_within 0.07614 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 8625 loss 7.406 masked_loss 3.896 masked_acc 0.06672 lr 0.001 tokens_per_s 3.136e+05 elapsed_s 450.7 peak_mem_gb 0.882
+step 8650 loss 7.412 masked_loss 3.899 masked_acc 0.06719 lr 0.001 tokens_per_s 3.132e+05 elapsed_s 452.5 peak_mem_gb 0.882
+step 8675 loss 7.442 masked_loss 3.912 masked_acc 0.06569 lr 0.001 tokens_per_s 3.127e+05 elapsed_s 454.5 peak_mem_gb 0.882
+step 8700 loss 7.406 masked_loss 3.895 masked_acc 0.06673 lr 0.001 tokens_per_s 3.123e+05 elapsed_s 456.4 peak_mem_gb 0.882 probe_acc_all 0.06921 probe_acc_within 0.06921 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 8725 loss 7.368 masked_loss 3.877 masked_acc 0.06799 lr 0.001 tokens_per_s 3.118e+05 elapsed_s 458.5 peak_mem_gb 0.882
+step 8750 loss 7.415 masked_loss 3.899 masked_acc 0.06727 lr 0.001 tokens_per_s 3.114e+05 elapsed_s 460.4 peak_mem_gb 0.882
+step 8775 loss 7.397 masked_loss 3.891 masked_acc 0.0657 lr 0.001 tokens_per_s 3.11e+05 elapsed_s 462.3 peak_mem_gb 0.882
+step 8800 loss 7.409 masked_loss 3.894 masked_acc 0.06804 lr 0.001 tokens_per_s 3.105e+05 elapsed_s 464.3 peak_mem_gb 0.882 probe_acc_all 0.06534 probe_acc_within 0.06534 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 8825 loss 7.422 masked_loss 3.901 masked_acc 0.06719 lr 0.001 tokens_per_s 3.1e+05 elapsed_s 466.4 peak_mem_gb 0.882
+step 8850 loss 7.435 masked_loss 3.905 masked_acc 0.06581 lr 0.001 tokens_per_s 3.096e+05 elapsed_s 468.4 peak_mem_gb 0.882
+step 8875 loss 7.435 masked_loss 3.907 masked_acc 0.06427 lr 0.001 tokens_per_s 3.091e+05 elapsed_s 470.4 peak_mem_gb 0.882
+step 8900 loss 7.421 masked_loss 3.9 masked_acc 0.06509 lr 0.001 tokens_per_s 3.088e+05 elapsed_s 472.2 peak_mem_gb 0.882 probe_acc_all 0.07143 probe_acc_within 0.07143 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 8925 loss 7.356 masked_loss 3.868 masked_acc 0.06718 lr 0.001 tokens_per_s 3.083e+05 elapsed_s 474.3 peak_mem_gb 0.882
+step 8950 loss 7.426 masked_loss 3.903 masked_acc 0.06711 lr 0.001 tokens_per_s 3.079e+05 elapsed_s 476.3 peak_mem_gb 0.882
+step 8975 loss 7.402 masked_loss 3.887 masked_acc 0.06744 lr 0.001 tokens_per_s 3.075e+05 elapsed_s 478.2 peak_mem_gb 0.882
+step 9000 loss 7.442 masked_loss 3.908 masked_acc 0.06599 lr 0.001 tokens_per_s 3.07e+05 elapsed_s 480.2 peak_mem_gb 0.882 probe_acc_all 0.06921 probe_acc_within 0.06921 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 9025 loss 7.38 masked_loss 3.877 masked_acc 0.06854 lr 0.001 tokens_per_s 3.063e+05 elapsed_s 482.7 peak_mem_gb 0.882
+step 9050 loss 7.368 masked_loss 3.871 masked_acc 0.06646 lr 0.001 tokens_per_s 3.056e+05 elapsed_s 485.2 peak_mem_gb 0.882
+step 9075 loss 7.392 masked_loss 3.886 masked_acc 0.06788 lr 0.001 tokens_per_s 3.051e+05 elapsed_s 487.4 peak_mem_gb 0.882
+step 9100 loss 7.428 masked_loss 3.903 masked_acc 0.06654 lr 0.001 tokens_per_s 3.048e+05 elapsed_s 489.1 peak_mem_gb 0.882 probe_acc_all 0.07004 probe_acc_within 0.07004 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 9125 loss 7.358 masked_loss 3.868 masked_acc 0.06788 lr 0.001 tokens_per_s 3.045e+05 elapsed_s 491 peak_mem_gb 0.882
+step 9150 loss 7.377 masked_loss 3.876 masked_acc 0.06781 lr 0.001 tokens_per_s 3.043e+05 elapsed_s 492.6 peak_mem_gb 0.882
+step 9175 loss 7.376 masked_loss 3.877 masked_acc 0.06705 lr 0.001 tokens_per_s 3.042e+05 elapsed_s 494.1 peak_mem_gb 0.882
+step 9200 loss 7.372 masked_loss 3.872 masked_acc 0.0674 lr 0.001 tokens_per_s 3.041e+05 elapsed_s 495.7 peak_mem_gb 0.882 probe_acc_all 0.07143 probe_acc_within 0.07143 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 9225 loss 7.413 masked_loss 3.893 masked_acc 0.06675 lr 0.001 tokens_per_s 3.038e+05 elapsed_s 497.5 peak_mem_gb 0.882
+step 9250 loss 7.356 masked_loss 3.865 masked_acc 0.06628 lr 0.001 tokens_per_s 3.037e+05 elapsed_s 499 peak_mem_gb 0.882
+step 9275 loss 7.382 masked_loss 3.873 masked_acc 0.06879 lr 0.001 tokens_per_s 3.036e+05 elapsed_s 500.6 peak_mem_gb 0.882
+step 9300 loss 7.385 masked_loss 3.88 masked_acc 0.06647 lr 0.001 tokens_per_s 3.034e+05 elapsed_s 502.1 peak_mem_gb 0.882 probe_acc_all 0.07337 probe_acc_within 0.07337 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 9325 loss 7.356 masked_loss 3.872 masked_acc 0.06703 lr 0.001 tokens_per_s 3.032e+05 elapsed_s 503.8 peak_mem_gb 0.882
+step 9350 loss 7.373 masked_loss 3.875 masked_acc 0.06737 lr 0.001 tokens_per_s 3.031e+05 elapsed_s 505.4 peak_mem_gb 0.882
+step 9375 loss 7.415 masked_loss 3.891 masked_acc 0.06674 lr 0.001 tokens_per_s 3.03e+05 elapsed_s 507 peak_mem_gb 0.882
+step 9400 loss 7.394 masked_loss 3.886 masked_acc 0.06595 lr 0.001 tokens_per_s 3.028e+05 elapsed_s 508.7 peak_mem_gb 0.882 probe_acc_all 0.07143 probe_acc_within 0.07143 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 9425 loss 7.414 masked_loss 3.899 masked_acc 0.06637 lr 0.001 tokens_per_s 3.026e+05 elapsed_s 510.4 peak_mem_gb 0.882
+step 9450 loss 7.388 masked_loss 3.884 masked_acc 0.06747 lr 0.001 tokens_per_s 3.023e+05 elapsed_s 512.2 peak_mem_gb 0.882
+step 9475 loss 7.39 masked_loss 3.882 masked_acc 0.06739 lr 0.001 tokens_per_s 3.02e+05 elapsed_s 514 peak_mem_gb 0.882
+step 9500 loss 7.377 masked_loss 3.88 masked_acc 0.06564 lr 0.001 tokens_per_s 3.017e+05 elapsed_s 515.9 peak_mem_gb 0.882 probe_acc_all 0.07558 probe_acc_within 0.07558 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 9525 loss 7.363 masked_loss 3.875 masked_acc 0.06575 lr 0.001 tokens_per_s 3.012e+05 elapsed_s 518.1 peak_mem_gb 0.882
+step 9550 loss 7.364 masked_loss 3.869 masked_acc 0.06677 lr 0.001 tokens_per_s 3.009e+05 elapsed_s 520 peak_mem_gb 0.882
+step 9575 loss 7.388 masked_loss 3.88 masked_acc 0.066 lr 0.001 tokens_per_s 3.005e+05 elapsed_s 522 peak_mem_gb 0.882
+step 9600 loss 7.368 masked_loss 3.871 masked_acc 0.06759 lr 0.001 tokens_per_s 3.002e+05 elapsed_s 524 peak_mem_gb 0.882 probe_acc_all 0.07032 probe_acc_within 0.07032 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 9625 loss 7.374 masked_loss 3.876 masked_acc 0.065 lr 0.001 tokens_per_s 2.998e+05 elapsed_s 526.1 peak_mem_gb 0.882
+step 9650 loss 7.43 masked_loss 3.897 masked_acc 0.066 lr 0.001 tokens_per_s 2.994e+05 elapsed_s 528 peak_mem_gb 0.882
+step 9675 loss 7.393 masked_loss 3.885 masked_acc 0.0662 lr 0.001 tokens_per_s 2.991e+05 elapsed_s 529.9 peak_mem_gb 0.882
+step 9700 loss 7.381 masked_loss 3.88 masked_acc 0.06587 lr 0.001 tokens_per_s 2.988e+05 elapsed_s 531.9 peak_mem_gb 0.882 probe_acc_all 0.067 probe_acc_within 0.067 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 9725 loss 7.402 masked_loss 3.888 masked_acc 0.06589 lr 0.001 tokens_per_s 2.983e+05 elapsed_s 534.1 peak_mem_gb 0.882
+step 9750 loss 7.351 masked_loss 3.861 masked_acc 0.06685 lr 0.001 tokens_per_s 2.98e+05 elapsed_s 536 peak_mem_gb 0.882
+step 9775 loss 7.371 masked_loss 3.873 masked_acc 0.06615 lr 0.001 tokens_per_s 2.978e+05 elapsed_s 537.8 peak_mem_gb 0.882
+step 9800 loss 7.343 masked_loss 3.86 masked_acc 0.06718 lr 0.001 tokens_per_s 2.975e+05 elapsed_s 539.7 peak_mem_gb 0.882 probe_acc_all 0.06866 probe_acc_within 0.06866 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 9825 loss 7.387 masked_loss 3.881 masked_acc 0.06855 lr 0.001 tokens_per_s 2.971e+05 elapsed_s 541.7 peak_mem_gb 0.882
+step 9850 loss 7.361 masked_loss 3.866 masked_acc 0.06692 lr 0.001 tokens_per_s 2.969e+05 elapsed_s 543.6 peak_mem_gb 0.882
+step 9875 loss 7.375 masked_loss 3.874 masked_acc 0.06684 lr 0.001 tokens_per_s 2.966e+05 elapsed_s 545.5 peak_mem_gb 0.882
+step 9900 loss 7.353 masked_loss 3.863 masked_acc 0.06676 lr 0.001 tokens_per_s 2.963e+05 elapsed_s 547.5 peak_mem_gb 0.882 probe_acc_all 0.07337 probe_acc_within 0.07337 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+step 9925 loss 7.353 masked_loss 3.863 masked_acc 0.06679 lr 0.001 tokens_per_s 2.959e+05 elapsed_s 549.6 peak_mem_gb 0.882
+step 9950 loss 7.349 masked_loss 3.861 masked_acc 0.06639 lr 0.001 tokens_per_s 2.956e+05 elapsed_s 551.5 peak_mem_gb 0.882
+step 9975 loss 7.352 masked_loss 3.863 masked_acc 0.06638 lr 0.001 tokens_per_s 2.953e+05 elapsed_s 553.4 peak_mem_gb 0.882
+step 1e+04 loss 7.367 masked_loss 3.872 masked_acc 0.06745 lr 0.001 tokens_per_s 2.95e+05 elapsed_s 555.4 peak_mem_gb 0.882 probe_acc_all 0.0753 probe_acc_within 0.0753 shortcut_recent_all 0.06838 shortcut_freq_all 0.07364 shortcut_recent_within 0.06838 shortcut_freq_within 0.07364 n_probes 3612 n_within 3612
+{"train_steps": 10000, "stop_reason": "steps", "train_wall_s": 555.8, "tokens_per_s": 294788, "peak_mem_gb": 0.882, "n_params": 2893080, "final_loss": 7.36737756729126, "final_masked_loss": 3.8720575618743895, "final_masked_acc": 0.06745265099686074, "final_probe_acc_all": 0.0753045404208195, "final_probe_acc_within": 0.0753045404208195, "final_shortcut_recent_all": 0.06838316722037652, "final_shortcut_freq_all": 0.07364341085271318, "final_shortcut_recent_within": 0.06838316722037652, "final_shortcut_freq_within": 0.07364341085271318, "final_n_probes": 3612, "final_n_within": 3612}

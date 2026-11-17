@@ -1,0 +1,29 @@
+Loading weights:   0%|          | 0/434 [00:00<?, ?it/s]Loading weights: 100%|██████████| 434/434 [00:00<00:00, 27401.78it/s]
+train loss 0.1228  positives 0.150
+held-out seed 2 exc 0.2: keep 0.25  fact kept 0.69  value kept 0.48  precision 0.71  teacher-top kept 0.84
+held-out seed 2 exc 0.5: keep 0.25  fact kept 0.76  value kept 0.60  precision 0.77  teacher-top kept 0.87
+Loading weights:   0%|          | 0/434 [00:00<?, ?it/s]Loading weights: 100%|██████████| 434/434 [00:00<00:00, 29136.90it/s]
+positive pairs 3252
+step 500 infonce 1.186
+step 1000 infonce 1.095
+step 1500 infonce 1.064
+fit seeds 0-1    raw h  cue c0.5        AUC rule>exc 0.593  (0.63, 0.60, 0.64, 0.50)
+fit seeds 0-1    raw h  cue c0.7        AUC rule>exc 0.603  (0.64, 0.61, 0.62, 0.55)
+fit seeds 0-1    raw h  cue c0.8        AUC rule>exc 0.582  (0.59, 0.58, 0.62, 0.54)
+fit seeds 0-1    raw h  cue c0.9        AUC rule>exc 0.681  (0.60, 0.81, 0.52, 0.79)
+fit seeds 0-1    raw h  max later cos   AUC rule>exc 0.617  (0.63, 0.62, 0.65, 0.58)
+fit seeds 0-1    kappa  cue c0.5        AUC rule>exc 0.654  (0.71, 0.65, 0.69, 0.57)
+fit seeds 0-1    kappa  cue c0.7        AUC rule>exc 0.630  (0.65, 0.58, 0.69, 0.60)
+fit seeds 0-1    kappa  cue c0.8        AUC rule>exc 0.564  (0.63, 0.46, 0.71, 0.46)
+fit seeds 0-1    kappa  cue c0.9        AUC rule>exc 0.371  (0.61, 0.21, 0.47, 0.20)
+fit seeds 0-1    kappa  max later cos   AUC rule>exc 0.646  (0.67, 0.64, 0.67, 0.60)
+held-out seed 2  raw h  cue c0.5        AUC rule>exc 0.592  (0.65, 0.53)
+held-out seed 2  raw h  cue c0.7        AUC rule>exc 0.600  (0.65, 0.56)
+held-out seed 2  raw h  cue c0.8        AUC rule>exc 0.577  (0.60, 0.56)
+held-out seed 2  raw h  cue c0.9        AUC rule>exc 0.481  (0.61, 0.35)
+held-out seed 2  raw h  max later cos   AUC rule>exc 0.629  (0.66, 0.59)
+held-out seed 2  kappa  cue c0.5        AUC rule>exc 0.647  (0.68, 0.61)
+held-out seed 2  kappa  cue c0.7        AUC rule>exc 0.540  (0.63, 0.45)
+held-out seed 2  kappa  cue c0.8        AUC rule>exc 0.751  (0.63, 0.87)
+held-out seed 2  kappa  cue c0.9        AUC rule>exc 0.773  (0.64, 0.91)
+held-out seed 2  kappa  max later cos   AUC rule>exc 0.642  (0.67, 0.62)

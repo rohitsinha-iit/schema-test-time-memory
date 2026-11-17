@@ -1,0 +1,36 @@
+rows 440 duplicate (arm,seed,exc) rows 0
+arm
+hippo                 40
+hrd_schema            40
+hrd_uniform           40
+lora_arrival          40
+lora_schema           40
+lora_schema_nogate    40
+lora_sleep_all        40
+lora_surprise         40
+lora_uniform          40
+swa                   40
+swa_big               40
+
+paired hrd_uniform - arm (primary), 95% bootstrap CI over streams, wins/ties/losses
+lora_schema          n  40 diff +0.186 [+0.159, +0.213]  W/T/L 39/0/1
+lora_sleep_all       n  40 diff +0.218 [+0.191, +0.244]  W/T/L 40/0/0
+hippo                n  40 diff +0.080 [+0.059, +0.102]  W/T/L 37/0/3
+lora_schema_nogate   n  40 diff +0.226 [+0.198, +0.255]  W/T/L 40/0/0
+lora_uniform         n  40 diff +0.043 [+0.004, +0.084]  W/T/L 22/0/18
+lora_arrival         n  40 diff +0.184 [+0.156, +0.214]  W/T/L 40/0/0
+lora_surprise        n  40 diff +0.188 [+0.159, +0.218]  W/T/L 39/0/1
+hrd_schema           n  40 diff +0.010 [-0.014, +0.032]  W/T/L 24/0/16
+
+means over streams
+                    lora_steps  steps_tried  steps_accepted  steps_rejected  lora_rejected  released  H_landmarks  sleeps  sleeps_without_candidates  anchor_episodes  heldout_text_nll  wall_s
+arm                                                                                                                                                                                            
+hippo                      NaN          NaN             NaN             NaN            NaN       NaN      1792.00     NaN                        NaN              NaN               NaN    3.92
+hrd_schema              491.77       220.60          139.05            0.00          81.55      0.38      1487.60   28.00                       1.00            32.00              2.40  265.09
+hrd_uniform             222.80       222.80          222.80            0.00           0.00      0.00      1504.00   28.00                       1.00             0.00              2.39   91.48
+lora_arrival            178.00         0.00            0.00            0.00           0.00      0.00         0.00    0.00                        NaN             0.00              2.40   46.66
+lora_schema             531.58       196.20           80.30            0.00         115.90     59.17       837.60   28.00                       3.48            32.00              2.87  198.91
+lora_schema_nogate      191.00       191.00          191.00            0.00           0.00     77.40       553.60   28.00                       4.12            32.00              4.63   71.61
+lora_sleep_all          224.00       224.00          224.00            0.00           0.00    112.00         0.00   28.00                        NaN             0.00              4.97   64.02
+lora_surprise           178.00         0.00            0.00            0.00           0.00      0.00         0.00    0.00                        NaN             0.00              2.36   48.35
+lora_uniform            224.00       224.00          224.00            0.00           0.00      0.00      1504.00   28.00                        NaN             0.00              3.84   84.27

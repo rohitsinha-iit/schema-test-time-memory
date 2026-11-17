@@ -1,0 +1,41 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 29682.06it/s]
+seed 100 exc 0.2 schema_kappa           rule 0.692 exc_in 1.000 exc_beyond 0.364 (>4W 0.250) drift 0.000 | retest rule 0.462 exc 0.136 4.3s
+seed 100 exc 0.2 schema_kappa_nogate    rule 0.692 exc_in 1.000 exc_beyond 0.318 (>4W 0.167) drift 0.000 | retest rule 0.462 exc 0.136 3.9s
+seed 100 exc 0.5 schema_kappa           rule 0.778 exc_in 0.667 exc_beyond 0.185 (>4W 0.069) drift 1.000 | retest rule 0.444 exc 0.123 4.3s
+seed 100 exc 0.5 schema_kappa_nogate    rule 0.778 exc_in 0.667 exc_beyond 0.169 (>4W 0.069) drift 1.000 | retest rule 0.444 exc 0.108 4.1s
+seed 101 exc 0.2 schema_kappa           rule 0.917 exc_in 1.000 exc_beyond 0.714 (>4W 0.667) drift 0.750 | retest rule 0.417 exc 0.214 4.0s
+seed 101 exc 0.2 schema_kappa_nogate    rule 0.833 exc_in 1.000 exc_beyond 0.714 (>4W 0.500) drift 0.500 | retest rule 0.333 exc 0.357 3.9s
+seed 101 exc 0.5 schema_kappa           rule 0.600 exc_in 1.000 exc_beyond 0.293 (>4W 0.371) drift 0.500 | retest rule 0.100 exc 0.155 4.2s
+seed 101 exc 0.5 schema_kappa_nogate    rule 0.700 exc_in 1.000 exc_beyond 0.259 (>4W 0.314) drift 0.500 | retest rule 0.100 exc 0.155 4.1s
+seed 102 exc 0.2 schema_kappa           rule 0.571 exc_in 1.000 exc_beyond 0.458 (>4W 0.364) drift 0.333 | retest rule 0.214 exc 0.042 4.1s
+seed 102 exc 0.2 schema_kappa_nogate    rule 0.571 exc_in 1.000 exc_beyond 0.458 (>4W 0.364) drift 0.333 | retest rule 0.286 exc 0.042 3.9s
+seed 102 exc 0.5 schema_kappa           rule 0.778 exc_in 1.000 exc_beyond 0.362 (>4W 0.275) drift 1.000 | retest rule 0.222 exc 0.103 4.2s
+seed 102 exc 0.5 schema_kappa_nogate    rule 0.778 exc_in 1.000 exc_beyond 0.345 (>4W 0.275) drift 1.000 | retest rule 0.333 exc 0.103 4.1s
+seed 103 exc 0.2 schema_kappa           rule 0.667 exc_in 1.000 exc_beyond 0.429 (>4W 0.200) drift 0.667 | retest rule 0.167 exc 0.286 4.0s
+seed 103 exc 0.2 schema_kappa_nogate    rule 0.667 exc_in 0.000 exc_beyond 0.429 (>4W 0.200) drift 0.667 | retest rule 0.083 exc 0.238 3.9s
+seed 103 exc 0.5 schema_kappa           rule 0.800 exc_in 1.000 exc_beyond 0.314 (>4W 0.241) drift 0.000 | retest rule 0.400 exc 0.118 4.2s
+seed 103 exc 0.5 schema_kappa_nogate    rule 0.800 exc_in 1.000 exc_beyond 0.314 (>4W 0.241) drift 0.000 | retest rule 0.300 exc 0.137 4.1s
+seed 104 exc 0.2 schema_kappa           rule 0.846 exc_in 1.000 exc_beyond 0.409 (>4W 0.333) drift 1.000 | retest rule 0.385 exc 0.136 4.0s
+seed 104 exc 0.2 schema_kappa_nogate    rule 0.923 exc_in 1.000 exc_beyond 0.364 (>4W 0.250) drift 1.000 | retest rule 0.385 exc 0.182 3.9s
+seed 104 exc 0.5 schema_kappa           rule 0.700 exc_in 1.000 exc_beyond 0.314 (>4W 0.355) drift 0.000 | retest rule 0.400 exc 0.157 4.2s
+seed 104 exc 0.5 schema_kappa_nogate    rule 0.700 exc_in 1.000 exc_beyond 0.353 (>4W 0.419) drift 0.000 | retest rule 0.300 exc 0.157 4.1s
+seed 105 exc 0.2 schema_kappa           rule 0.714 exc_in 1.000 exc_beyond 0.391 (>4W 0.267) drift 0.500 | retest rule 0.286 exc 0.174 4.0s
+seed 105 exc 0.2 schema_kappa_nogate    rule 0.786 exc_in 1.000 exc_beyond 0.304 (>4W 0.200) drift 0.500 | retest rule 0.357 exc 0.174 3.9s
+seed 105 exc 0.5 schema_kappa           rule 1.000 exc_in 0.833 exc_beyond 0.314 (>4W 0.265) drift 1.000 | retest rule 0.222 exc 0.098 4.2s
+seed 105 exc 0.5 schema_kappa_nogate    rule 1.000 exc_in 0.833 exc_beyond 0.314 (>4W 0.265) drift 1.000 | retest rule 0.111 exc 0.098 4.1s
+seed 106 exc 0.2 schema_kappa           rule 1.000 exc_in 1.000 exc_beyond 0.381 (>4W 0.200) drift 1.000 | retest rule 0.308 exc 0.143 4.0s
+seed 106 exc 0.2 schema_kappa_nogate    rule 1.000 exc_in 1.000 exc_beyond 0.381 (>4W 0.200) drift 1.000 | retest rule 0.385 exc 0.143 3.9s
+seed 106 exc 0.5 schema_kappa           rule 0.500 exc_in 0.875 exc_beyond 0.271 (>4W 0.154) drift 0.000 | retest rule 0.200 exc 0.125 4.2s
+seed 106 exc 0.5 schema_kappa_nogate    rule 0.600 exc_in 0.875 exc_beyond 0.292 (>4W 0.115) drift 0.500 | retest rule 0.200 exc 0.062 4.1s
+seed 107 exc 0.2 schema_kappa           rule 0.786 exc_in 0.857 exc_beyond 0.350 (>4W 0.500) drift 0.667 | retest rule 0.500 exc 0.300 4.1s
+seed 107 exc 0.2 schema_kappa_nogate    rule 0.786 exc_in 0.857 exc_beyond 0.300 (>4W 0.500) drift 0.667 | retest rule 0.429 exc 0.250 3.9s
+seed 107 exc 0.5 schema_kappa           rule 0.700 exc_in 1.000 exc_beyond 0.345 (>4W 0.229) drift 0.750 | retest rule 0.400 exc 0.164 4.2s
+seed 107 exc 0.5 schema_kappa_nogate    rule 0.600 exc_in 1.000 exc_beyond 0.309 (>4W 0.200) drift 0.750 | retest rule 0.300 exc 0.200 4.1s
+seed 108 exc 0.2 schema_kappa           rule 0.857 exc_in 1.000 exc_beyond 0.350 (>4W 0.417) drift 0.750 | retest rule 0.500 exc 0.200 4.0s
+seed 108 exc 0.2 schema_kappa_nogate    rule 0.857 exc_in 1.000 exc_beyond 0.200 (>4W 0.333) drift 0.750 | retest rule 0.357 exc 0.150 3.9s
+seed 108 exc 0.5 schema_kappa           rule 0.917 exc_in 1.000 exc_beyond 0.347 (>4W 0.276) drift 1.000 | retest rule 0.333 exc 0.143 4.2s
+seed 108 exc 0.5 schema_kappa_nogate    rule 0.833 exc_in 1.000 exc_beyond 0.388 (>4W 0.310) drift 0.667 | retest rule 0.417 exc 0.143 4.1s
+seed 109 exc 0.2 schema_kappa           rule 0.750 exc_in 1.000 exc_beyond 0.406 (>4W 0.450) drift 0.667 | retest rule 0.333 exc 0.094 4.0s
+seed 109 exc 0.2 schema_kappa_nogate    rule 0.750 exc_in 1.000 exc_beyond 0.406 (>4W 0.450) drift 0.667 | retest rule 0.417 exc 0.094 4.0s
+seed 109 exc 0.5 schema_kappa           rule 0.727 exc_in 0.875 exc_beyond 0.302 (>4W 0.107) drift 0.500 | retest rule 0.364 exc 0.170 4.2s
+seed 109 exc 0.5 schema_kappa_nogate    rule 0.727 exc_in 0.750 exc_beyond 0.283 (>4W 0.143) drift 0.500 | retest rule 0.364 exc 0.170 4.1s

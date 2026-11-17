@@ -1,0 +1,15 @@
+{
+ "arrival_fifo": 0.1,
+ "schema": 0.5,
+ "schema_dsum": 1.0,
+ "schema_dsum_rho4": 0.5,
+ "schema_fifo_evict": 0.5,
+ "schema_nogate": 0.25,
+ "schema_noreconsol": 2.0,
+ "schema_nosupersede": 1.0,
+ "schema_surprise_pri": 0.25,
+ "schema_surprise_pri_dsum": 0.25,
+ "sleep_all": 2.0,
+ "surprise_fifo": 0.1,
+ "uniform_replay": 2.0
+}

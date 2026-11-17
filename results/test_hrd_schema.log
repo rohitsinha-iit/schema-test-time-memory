@@ -1,0 +1,41 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 19999.64it/s]
+seed 100 exc 0.2 hrd_schema             rule 0.769 exc_in 1.000 exc_beyond 0.136 (>4W 0.083) drift 1.000 | retest rule 0.308 exc 0.000 278.7s
+seed 100 exc 0.5 hrd_schema             rule 0.889 exc_in 0.571 exc_beyond 0.154 (>4W 0.133) drift 0.500 | retest rule 0.333 exc 0.000 279.3s
+seed 101 exc 0.2 hrd_schema             rule 0.917 exc_in 1.000 exc_beyond 0.500 (>4W 0.500) drift 0.750 | retest rule 0.250 exc 0.000 254.9s
+seed 101 exc 0.5 hrd_schema             rule 0.700 exc_in 1.000 exc_beyond 0.155 (>4W 0.229) drift 0.750 | retest rule 0.400 exc 0.000 242.5s
+seed 102 exc 0.2 hrd_schema             rule 0.667 exc_in 1.000 exc_beyond 0.364 (>4W 0.182) drift 0.333 | retest rule 0.250 exc 0.000 287.9s
+seed 102 exc 0.5 hrd_schema             rule 0.778 exc_in 0.833 exc_beyond 0.207 (>4W 0.150) drift 0.500 | retest rule 0.222 exc 0.000 276.2s
+seed 103 exc 0.2 hrd_schema             rule 0.750 exc_in 0.000 exc_beyond 0.429 (>4W 0.100) drift 0.667 | retest rule 0.250 exc 0.000 280.5s
+seed 103 exc 0.5 hrd_schema             rule 0.800 exc_in 0.889 exc_beyond 0.275 (>4W 0.207) drift 0.000 | retest rule 0.100 exc 0.000 302.2s
+seed 104 exc 0.2 hrd_schema             rule 0.692 exc_in 1.000 exc_beyond 0.273 (>4W 0.154) drift 0.667 | retest rule 0.231 exc 0.000 286.5s
+seed 104 exc 0.5 hrd_schema             rule 0.333 exc_in 0.800 exc_beyond 0.235 (>4W 0.290) drift 0.000 | retest rule 0.111 exc 0.000 288.7s
+seed 105 exc 0.2 hrd_schema             rule 0.786 exc_in 1.000 exc_beyond 0.227 (>4W 0.067) drift 1.000 | retest rule 0.286 exc 0.000 262.1s
+seed 105 exc 0.5 hrd_schema             rule 1.000 exc_in 0.667 exc_beyond 0.196 (>4W 0.147) drift 1.000 | retest rule 0.444 exc 0.000 267.9s
+seed 106 exc 0.2 hrd_schema             rule 0.667 exc_in 0.600 exc_beyond 0.238 (>4W 0.200) drift 0.333 | retest rule 0.267 exc 0.000 273.8s
+seed 106 exc 0.5 hrd_schema             rule 0.600 exc_in 0.571 exc_beyond 0.224 (>4W 0.231) drift 0.500 | retest rule 0.500 exc 0.000 234.8s
+seed 107 exc 0.2 hrd_schema             rule 0.714 exc_in 0.571 exc_beyond 0.300 (>4W 0.417) drift 0.667 | retest rule 0.214 exc 0.000 271.2s
+seed 107 exc 0.5 hrd_schema             rule 0.700 exc_in 1.000 exc_beyond 0.218 (>4W 0.171) drift 0.750 | retest rule 0.400 exc 0.000 213.2s
+seed 108 exc 0.2 hrd_schema             rule 0.857 exc_in 1.000 exc_beyond 0.600 (>4W 0.583) drift 0.750 | retest rule 0.286 exc 0.000 266.4s
+seed 108 exc 0.5 hrd_schema             rule 0.667 exc_in 1.000 exc_beyond 0.286 (>4W 0.207) drift 0.667 | retest rule 0.167 exc 0.000 297.2s
+seed 109 exc 0.2 hrd_schema             rule 0.636 exc_in 1.000 exc_beyond 0.200 (>4W 0.158) drift 0.667 | retest rule 0.182 exc 0.000 253.9s
+seed 109 exc 0.5 hrd_schema             rule 0.636 exc_in 1.000 exc_beyond 0.278 (>4W 0.179) drift 1.000 | retest rule 0.182 exc 0.000 288.4s
+seed 110 exc 0.2 hrd_schema             rule 0.643 exc_in 1.000 exc_beyond 0.292 (>4W 0.200) drift 0.750 | retest rule 0.143 exc 0.000 256.2s
+seed 110 exc 0.5 hrd_schema             rule 0.625 exc_in 1.000 exc_beyond 0.185 (>4W 0.143) drift 0.500 | retest rule 0.125 exc 0.000 273.8s
+seed 111 exc 0.2 hrd_schema             rule 0.750 exc_in 1.000 exc_beyond 0.433 (>4W 0.316) drift 0.750 | retest rule 0.250 exc 0.000 300.4s
+seed 111 exc 0.5 hrd_schema             rule 0.727 exc_in 1.000 exc_beyond 0.308 (>4W 0.300) drift 0.750 | retest rule 0.364 exc 0.000 251.3s
+seed 112 exc 0.2 hrd_schema             rule 0.800 exc_in 0.833 exc_beyond 0.381 (>4W 0.333) drift 0.750 | retest rule 0.267 exc 0.000 252.7s
+seed 112 exc 0.5 hrd_schema             rule 0.727 exc_in 0.750 exc_beyond 0.131 (>4W 0.056) drift 1.000 | retest rule 0.091 exc 0.000 252.8s
+seed 113 exc 0.2 hrd_schema             rule 0.636 exc_in 0.500 exc_beyond 0.222 (>4W 0.273) drift 0.500 | retest rule 0.273 exc 0.000 272.2s
+seed 113 exc 0.5 hrd_schema             rule 0.800 exc_in 0.667 exc_beyond 0.121 (>4W 0.176) drift 0.000 | retest rule 0.300 exc 0.000 250.9s
+seed 114 exc 0.2 hrd_schema             rule 0.867 exc_in 1.000 exc_beyond 0.269 (>4W 0.154) drift 1.000 | retest rule 0.467 exc 0.000 232.4s
+seed 114 exc 0.5 hrd_schema             rule 0.545 exc_in 0.875 exc_beyond 0.283 (>4W 0.154) drift 1.000 | retest rule 0.091 exc 0.000 241.6s
+seed 115 exc 0.2 hrd_schema             rule 0.923 exc_in 1.000 exc_beyond 0.360 (>4W 0.357) drift 1.000 | retest rule 0.462 exc 0.000 248.1s
+seed 115 exc 0.5 hrd_schema             rule 0.667 exc_in 0.692 exc_beyond 0.164 (>4W 0.125) drift 0.333 | retest rule 0.333 exc 0.000 283.2s
+seed 116 exc 0.2 hrd_schema             rule 0.714 exc_in 1.000 exc_beyond 0.364 (>4W 0.077) drift 0.500 | retest rule 0.214 exc 0.000 289.2s
+seed 116 exc 0.5 hrd_schema             rule 0.333 exc_in 1.000 exc_beyond 0.170 (>4W 0.167) drift 0.000 | retest rule 0.167 exc 0.000 254.6s
+seed 117 exc 0.2 hrd_schema             rule 0.786 exc_in 0.667 exc_beyond 0.435 (>4W 0.300) drift 0.333 | retest rule 0.286 exc 0.000 260.3s
+seed 117 exc 0.5 hrd_schema             rule 0.800 exc_in 0.714 exc_beyond 0.327 (>4W 0.240) drift 1.000 | retest rule 0.400 exc 0.000 256.4s
+seed 118 exc 0.2 hrd_schema             rule 0.667 exc_in 1.000 exc_beyond 0.300 (>4W 0.154) drift 0.667 | retest rule 0.500 exc 0.000 250.4s
+seed 118 exc 0.5 hrd_schema             rule 0.500 exc_in 0.857 exc_beyond 0.273 (>4W 0.160) drift 0.500 | retest rule 0.300 exc 0.000 252.7s
+seed 119 exc 0.2 hrd_schema             rule 0.429 exc_in 1.000 exc_beyond 0.320 (>4W 0.308) drift 0.500 | retest rule 0.357 exc 0.000 249.3s
+seed 119 exc 0.5 hrd_schema             rule 0.455 exc_in 0.692 exc_beyond 0.245 (>4W 0.188) drift 0.333 | retest rule 0.182 exc 0.000 268.9s

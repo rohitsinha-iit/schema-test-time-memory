@@ -1,0 +1,5 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 24513.25it/s]
+lora_schema          {'r_min': 2, 'cue': 0.7, 'theta': 0.98, 'n_steps': 8, 'lr': 0.001, 'delta': 'max', 'tau': 1.0} score 0.143  retest_rule 0.231  exc_beyond 0.054  retest_exc 0.020  rule 0.279
+lora_schema          {'r_min': 2, 'cue': 0.7, 'theta': 0.98, 'n_steps': 8, 'lr': 0.001, 'delta': 'max', 'tau': 2.0} score 0.073  retest_rule 0.118  exc_beyond 0.029  retest_exc 0.015  rule 0.282
+lora_schema          {'r_min': 2, 'cue': 0.7, 'theta': 0.98, 'n_steps': 8, 'lr': 0.001, 'delta': 'max', 'tau': 3.0} score 0.086  retest_rule 0.130  exc_beyond 0.042  retest_exc 0.018  rule 0.251
+BEST lora_schema: {"r_min": 2, "cue": 0.7, "theta": 0.98, "n_steps": 8, "lr": 0.001, "delta": "max", "tau": 1.0} score 0.143

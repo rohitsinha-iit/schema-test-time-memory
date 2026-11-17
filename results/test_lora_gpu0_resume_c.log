@@ -1,0 +1,121 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 29201.51it/s]
+seed 105 exc 0.2 lora_sleep_all         rule 0.143 exc_in 0.000 exc_beyond 0.045 (>4W 0.000) drift 0.000 | retest rule 0.214 exc 0.045 71.8s
+seed 105 exc 0.2 swa                    rule 0.429 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.7s
+seed 105 exc 0.2 swa_big                rule 0.786 exc_in 1.000 exc_beyond 0.227 (>4W 0.000) drift 0.750 4.3s
+seed 105 exc 0.2 hippo                  rule 0.714 exc_in 0.500 exc_beyond 0.455 (>4W 0.267) drift 0.250 | retest rule 0.000 exc 0.000 4.0s
+seed 105 exc 0.5 lora_sleep_all         rule 0.333 exc_in 0.000 exc_beyond 0.039 (>4W 0.000) drift 0.500 | retest rule 0.222 exc 0.039 71.9s
+seed 105 exc 0.5 swa                    rule 0.667 exc_in 0.833 exc_beyond 0.000 (>4W 0.000) drift 0.000 2.9s
+seed 105 exc 0.5 swa_big                rule 1.000 exc_in 0.833 exc_beyond 0.157 (>4W 0.000) drift 1.000 4.6s
+seed 105 exc 0.5 hippo                  rule 1.000 exc_in 0.500 exc_beyond 0.333 (>4W 0.294) drift 1.000 | retest rule 0.000 exc 0.000 4.3s
+seed 106 exc 0.2 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.048 (>4W 0.000) drift 0.000 | retest rule 0.000 exc 0.095 71.7s
+seed 106 exc 0.2 swa                    rule 0.533 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 2.7s
+seed 106 exc 0.2 swa_big                rule 0.867 exc_in 1.000 exc_beyond 0.429 (>4W 0.000) drift 1.000 4.3s
+seed 106 exc 0.2 hippo                  rule 0.867 exc_in 1.000 exc_beyond 0.524 (>4W 0.400) drift 0.667 | retest rule 0.000 exc 0.000 4.0s
+seed 106 exc 0.5 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.020 (>4W 0.000) drift 0.000 | retest rule 0.000 exc 0.020 71.9s
+seed 106 exc 0.5 swa                    rule 0.200 exc_in 0.857 exc_beyond 0.000 (>4W 0.000) drift 0.000 2.9s
+seed 106 exc 0.5 swa_big                rule 0.600 exc_in 0.857 exc_beyond 0.347 (>4W 0.000) drift 0.500 4.7s
+seed 106 exc 0.5 hippo                  rule 0.800 exc_in 0.857 exc_beyond 0.388 (>4W 0.308) drift 0.500 | retest rule 0.000 exc 0.000 4.3s
+seed 107 exc 0.2 lora_sleep_all         rule 0.071 exc_in 0.000 exc_beyond 0.100 (>4W 0.000) drift 0.000 | retest rule 0.071 exc 0.100 71.9s
+seed 107 exc 0.2 swa                    rule 0.429 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.667 2.7s
+seed 107 exc 0.2 swa_big                rule 0.857 exc_in 0.857 exc_beyond 0.300 (>4W 0.000) drift 1.000 4.3s
+seed 107 exc 0.2 hippo                  rule 0.857 exc_in 0.857 exc_beyond 0.550 (>4W 0.583) drift 0.667 | retest rule 0.000 exc 0.000 4.0s
+seed 107 exc 0.5 lora_sleep_all         rule 0.400 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 | retest rule 0.300 exc 0.000 72.0s
+seed 107 exc 0.5 swa                    rule 0.300 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.9s
+seed 107 exc 0.5 swa_big                rule 1.000 exc_in 1.000 exc_beyond 0.200 (>4W 0.000) drift 1.000 4.8s
+seed 107 exc 0.5 hippo                  rule 0.800 exc_in 0.900 exc_beyond 0.364 (>4W 0.314) drift 0.750 | retest rule 0.000 exc 0.000 4.4s
+seed 108 exc 0.2 lora_sleep_all         rule 0.143 exc_in 0.000 exc_beyond 0.050 (>4W 0.000) drift 0.000 | retest rule 0.143 exc 0.050 71.7s
+seed 108 exc 0.2 swa                    rule 0.500 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.7s
+seed 108 exc 0.2 swa_big                rule 0.786 exc_in 1.000 exc_beyond 0.350 (>4W 0.000) drift 1.000 4.2s
+seed 108 exc 0.2 hippo                  rule 0.643 exc_in 1.000 exc_beyond 0.500 (>4W 0.583) drift 0.000 | retest rule 0.000 exc 0.000 4.0s
+seed 108 exc 0.5 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.041 (>4W 0.000) drift 0.000 | retest rule 0.000 exc 0.041 72.1s
+seed 108 exc 0.5 swa                    rule 0.500 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.667 2.9s
+seed 108 exc 0.5 swa_big                rule 0.750 exc_in 1.000 exc_beyond 0.265 (>4W 0.000) drift 1.000 4.7s
+seed 108 exc 0.5 hippo                  rule 0.750 exc_in 1.000 exc_beyond 0.347 (>4W 0.310) drift 0.667 | retest rule 0.000 exc 0.000 4.3s
+seed 109 exc 0.2 lora_sleep_all         rule 0.182 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 | retest rule 0.182 exc 0.033 71.7s
+seed 109 exc 0.2 swa                    rule 0.455 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.667 2.7s
+seed 109 exc 0.2 swa_big                rule 0.727 exc_in 1.000 exc_beyond 0.233 (>4W 0.000) drift 1.000 4.3s
+seed 109 exc 0.2 hippo                  rule 0.818 exc_in 1.000 exc_beyond 0.467 (>4W 0.526) drift 0.333 | retest rule 0.000 exc 0.000 4.0s
+seed 109 exc 0.5 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.019 (>4W 0.000) drift 0.000 | retest rule 0.000 exc 0.037 72.0s
+seed 109 exc 0.5 swa                    rule 0.364 exc_in 0.857 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.9s
+seed 109 exc 0.5 swa_big                rule 0.545 exc_in 0.571 exc_beyond 0.278 (>4W 0.000) drift 0.500 4.7s
+seed 109 exc 0.5 hippo                  rule 0.818 exc_in 0.714 exc_beyond 0.352 (>4W 0.214) drift 1.000 | retest rule 0.000 exc 0.000 4.3s
+seed 110 exc 0.2 lora_sleep_all         rule 0.143 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 | retest rule 0.143 exc 0.000 71.7s
+seed 110 exc 0.2 swa                    rule 0.429 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.750 2.7s
+seed 110 exc 0.2 swa_big                rule 0.571 exc_in 1.000 exc_beyond 0.208 (>4W 0.000) drift 1.000 4.3s
+seed 110 exc 0.2 hippo                  rule 0.500 exc_in 1.000 exc_beyond 0.375 (>4W 0.200) drift 0.500 | retest rule 0.000 exc 0.000 4.0s
+seed 110 exc 0.5 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.031 (>4W 0.000) drift 0.000 | retest rule 0.000 exc 0.031 72.1s
+seed 110 exc 0.5 swa                    rule 0.750 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.9s
+seed 110 exc 0.5 swa_big                rule 0.875 exc_in 1.000 exc_beyond 0.262 (>4W 0.000) drift 0.500 4.8s
+seed 110 exc 0.5 hippo                  rule 1.000 exc_in 0.750 exc_beyond 0.308 (>4W 0.200) drift 1.000 | retest rule 0.000 exc 0.000 4.4s
+seed 111 exc 0.2 lora_sleep_all         rule 0.250 exc_in 0.000 exc_beyond 0.033 (>4W 0.000) drift 0.000 | retest rule 0.250 exc 0.033 71.8s
+seed 111 exc 0.2 swa                    rule 0.583 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.750 2.7s
+seed 111 exc 0.2 swa_big                rule 0.833 exc_in 1.000 exc_beyond 0.167 (>4W 0.000) drift 1.000 4.4s
+seed 111 exc 0.2 hippo                  rule 0.667 exc_in 1.000 exc_beyond 0.467 (>4W 0.421) drift 0.500 | retest rule 0.000 exc 0.000 4.1s
+seed 111 exc 0.5 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 | retest rule 0.000 exc 0.000 72.1s
+seed 111 exc 0.5 swa                    rule 0.636 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.750 2.9s
+seed 111 exc 0.5 swa_big                rule 0.909 exc_in 1.000 exc_beyond 0.215 (>4W 0.000) drift 0.750 4.8s
+seed 111 exc 0.5 hippo                  rule 1.000 exc_in 1.000 exc_beyond 0.415 (>4W 0.375) drift 1.000 | retest rule 0.000 exc 0.000 4.4s
+seed 112 exc 0.2 lora_sleep_all         rule 0.067 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 | retest rule 0.067 exc 0.000 71.7s
+seed 112 exc 0.2 swa                    rule 0.333 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 2.7s
+seed 112 exc 0.2 swa_big                rule 0.733 exc_in 1.000 exc_beyond 0.286 (>4W 0.000) drift 0.750 4.3s
+seed 112 exc 0.2 hippo                  rule 0.733 exc_in 1.000 exc_beyond 0.524 (>4W 0.500) drift 0.750 | retest rule 0.000 exc 0.000 4.0s
+seed 112 exc 0.5 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.016 (>4W 0.000) drift 0.000 | retest rule 0.000 exc 0.033 72.1s
+seed 112 exc 0.5 swa                    rule 0.727 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 1.000 2.9s
+seed 112 exc 0.5 swa_big                rule 0.909 exc_in 1.000 exc_beyond 0.295 (>4W 0.000) drift 1.000 4.8s
+seed 112 exc 0.5 hippo                  rule 0.636 exc_in 1.000 exc_beyond 0.361 (>4W 0.333) drift 0.500 | retest rule 0.000 exc 0.000 4.4s
+seed 113 exc 0.2 lora_sleep_all         rule 0.182 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 | retest rule 0.000 exc 0.000 71.8s
+seed 113 exc 0.2 swa                    rule 0.545 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.7s
+seed 113 exc 0.2 swa_big                rule 0.636 exc_in 1.000 exc_beyond 0.407 (>4W 0.000) drift 0.500 4.3s
+seed 113 exc 0.2 hippo                  rule 0.818 exc_in 1.000 exc_beyond 0.444 (>4W 0.273) drift 0.500 | retest rule 0.000 exc 0.000 4.0s
+seed 113 exc 0.5 lora_sleep_all         rule 0.100 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 | retest rule 0.100 exc 0.000 72.0s
+seed 113 exc 0.5 swa                    rule 0.600 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 2.9s
+seed 113 exc 0.5 swa_big                rule 0.500 exc_in 1.000 exc_beyond 0.259 (>4W 0.000) drift 0.000 4.7s
+seed 113 exc 0.5 hippo                  rule 0.700 exc_in 1.000 exc_beyond 0.293 (>4W 0.324) drift 0.000 | retest rule 0.000 exc 0.000 4.3s
+seed 114 exc 0.2 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.038 (>4W 0.000) drift 0.000 | retest rule 0.000 exc 0.000 71.8s
+seed 114 exc 0.2 swa                    rule 0.533 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 2.7s
+seed 114 exc 0.2 swa_big                rule 0.867 exc_in 1.000 exc_beyond 0.269 (>4W 0.000) drift 1.000 4.3s
+seed 114 exc 0.2 hippo                  rule 0.667 exc_in 1.000 exc_beyond 0.385 (>4W 0.385) drift 0.750 | retest rule 0.000 exc 0.000 4.0s
+seed 114 exc 0.5 lora_sleep_all         rule 0.091 exc_in 0.000 exc_beyond 0.022 (>4W 0.000) drift 0.000 | retest rule 0.091 exc 0.022 72.0s
+seed 114 exc 0.5 swa                    rule 0.364 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 1.000 2.9s
+seed 114 exc 0.5 swa_big                rule 0.727 exc_in 0.875 exc_beyond 0.261 (>4W 0.000) drift 1.000 4.7s
+seed 114 exc 0.5 hippo                  rule 0.545 exc_in 1.000 exc_beyond 0.522 (>4W 0.423) drift 0.500 | retest rule 0.000 exc 0.000 4.3s
+seed 115 exc 0.2 lora_sleep_all         rule 0.231 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 | retest rule 0.231 exc 0.000 71.7s
+seed 115 exc 0.2 swa                    rule 0.615 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.750 2.7s
+seed 115 exc 0.2 swa_big                rule 1.000 exc_in 1.000 exc_beyond 0.200 (>4W 0.000) drift 1.000 4.3s
+seed 115 exc 0.2 hippo                  rule 0.769 exc_in 1.000 exc_beyond 0.400 (>4W 0.429) drift 0.750 | retest rule 0.000 exc 0.000 4.0s
+seed 115 exc 0.5 lora_sleep_all         rule 0.222 exc_in 0.000 exc_beyond 0.036 (>4W 0.000) drift 0.000 | retest rule 0.333 exc 0.018 72.1s
+seed 115 exc 0.5 swa                    rule 0.222 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 2.9s
+seed 115 exc 0.5 swa_big                rule 0.667 exc_in 1.000 exc_beyond 0.291 (>4W 0.000) drift 1.000 4.8s
+seed 115 exc 0.5 hippo                  rule 0.667 exc_in 0.846 exc_beyond 0.255 (>4W 0.219) drift 0.333 | retest rule 0.000 exc 0.000 4.4s
+seed 116 exc 0.2 lora_sleep_all         rule 0.214 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 | retest rule 0.143 exc 0.000 71.7s
+seed 116 exc 0.2 swa                    rule 0.429 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 2.7s
+seed 116 exc 0.2 swa_big                rule 0.786 exc_in 1.000 exc_beyond 0.273 (>4W 0.000) drift 1.000 4.3s
+seed 116 exc 0.2 hippo                  rule 0.714 exc_in 1.000 exc_beyond 0.409 (>4W 0.231) drift 0.500 | retest rule 0.000 exc 0.000 4.0s
+seed 116 exc 0.5 lora_sleep_all         rule 0.083 exc_in 0.200 exc_beyond 0.000 (>4W 0.000) drift 0.000 | retest rule 0.083 exc 0.000 72.2s
+seed 116 exc 0.5 swa                    rule 0.500 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.667 2.9s
+seed 116 exc 0.5 swa_big                rule 0.750 exc_in 1.000 exc_beyond 0.264 (>4W 0.000) drift 0.667 4.7s
+seed 116 exc 0.5 hippo                  rule 0.500 exc_in 1.000 exc_beyond 0.396 (>4W 0.300) drift 0.000 | retest rule 0.000 exc 0.000 4.3s
+seed 117 exc 0.2 lora_sleep_all         rule 0.071 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.333 | retest rule 0.071 exc 0.000 71.7s
+seed 117 exc 0.2 swa                    rule 0.500 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 1.000 2.7s
+seed 117 exc 0.2 swa_big                rule 0.786 exc_in 1.000 exc_beyond 0.261 (>4W 0.000) drift 1.000 4.3s
+seed 117 exc 0.2 hippo                  rule 0.786 exc_in 1.000 exc_beyond 0.435 (>4W 0.300) drift 0.667 | retest rule 0.000 exc 0.000 4.0s
+seed 117 exc 0.5 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.061 (>4W 0.000) drift 0.000 | retest rule 0.000 exc 0.061 72.0s
+seed 117 exc 0.5 swa                    rule 0.400 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.500 2.9s
+seed 117 exc 0.5 swa_big                rule 0.900 exc_in 1.000 exc_beyond 0.347 (>4W 0.000) drift 1.000 4.6s
+seed 117 exc 0.5 hippo                  rule 0.900 exc_in 1.000 exc_beyond 0.490 (>4W 0.280) drift 1.000 | retest rule 0.000 exc 0.000 4.3s
+seed 118 exc 0.2 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.050 (>4W 0.000) drift 0.000 | retest rule 0.167 exc 0.050 71.6s
+seed 118 exc 0.2 swa                    rule 0.500 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.667 2.7s
+seed 118 exc 0.2 swa_big                rule 0.917 exc_in 1.000 exc_beyond 0.200 (>4W 0.000) drift 1.000 4.2s
+seed 118 exc 0.2 hippo                  rule 0.833 exc_in 1.000 exc_beyond 0.350 (>4W 0.385) drift 0.333 | retest rule 0.000 exc 0.000 4.0s
+seed 118 exc 0.5 lora_sleep_all         rule 0.100 exc_in 0.000 exc_beyond 0.055 (>4W 0.000) drift 0.250 | retest rule 0.000 exc 0.055 72.0s
+seed 118 exc 0.5 swa                    rule 0.300 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.250 2.9s
+seed 118 exc 0.5 swa_big                rule 0.800 exc_in 0.857 exc_beyond 0.291 (>4W 0.000) drift 0.750 4.7s
+seed 118 exc 0.5 hippo                  rule 0.500 exc_in 0.857 exc_beyond 0.327 (>4W 0.440) drift 0.250 | retest rule 0.000 exc 0.000 4.3s
+seed 119 exc 0.2 lora_sleep_all         rule 0.000 exc_in 0.000 exc_beyond 0.040 (>4W 0.000) drift 0.000 | retest rule 0.071 exc 0.040 71.8s
+seed 119 exc 0.2 swa                    rule 0.500 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.750 2.7s
+seed 119 exc 0.2 swa_big                rule 0.786 exc_in 1.000 exc_beyond 0.400 (>4W 0.000) drift 1.000 4.3s
+seed 119 exc 0.2 hippo                  rule 0.714 exc_in 1.000 exc_beyond 0.400 (>4W 0.385) drift 0.250 | retest rule 0.000 exc 0.000 4.0s
+seed 119 exc 0.5 lora_sleep_all         rule 0.091 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.333 | retest rule 0.091 exc 0.000 72.3s
+seed 119 exc 0.5 swa                    rule 0.273 exc_in 0.923 exc_beyond 0.000 (>4W 0.000) drift 0.000 2.9s
+seed 119 exc 0.5 swa_big                rule 0.727 exc_in 1.000 exc_beyond 0.283 (>4W 0.000) drift 0.667 4.8s
+seed 119 exc 0.5 hippo                  rule 0.455 exc_in 0.846 exc_beyond 0.302 (>4W 0.281) drift 0.333 | retest rule 0.000 exc 0.000 4.4s

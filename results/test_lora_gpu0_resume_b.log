@@ -1,0 +1,6 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 30098.61it/s]
+seed 104 exc 0.5 lora_schema            rule 0.111 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 | retest rule 0.111 exc 0.020 404.5s
+seed 104 exc 0.5 lora_sleep_all         rule 0.222 exc_in 0.000 exc_beyond 0.000 (>4W 0.000) drift 0.000 | retest rule 0.222 exc 0.000 72.1s
+seed 104 exc 0.5 swa                    rule 0.222 exc_in 1.000 exc_beyond 0.000 (>4W 0.000) drift 0.333 2.9s
+seed 104 exc 0.5 swa_big                rule 0.778 exc_in 0.900 exc_beyond 0.216 (>4W 0.000) drift 1.000 4.7s
+seed 104 exc 0.5 hippo                  rule 0.778 exc_in 0.900 exc_beyond 0.333 (>4W 0.387) drift 0.333 | retest rule 0.000 exc 0.000 4.3s

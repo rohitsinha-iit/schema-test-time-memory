@@ -1,0 +1,21 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 21674.66it/s]
+seed 100 exc 0.2 hrd_schema_nogate      rule 0.769 exc_in 1.000 exc_beyond 0.182 (>4W 0.167) drift 1.000 | retest rule 0.154 exc 0.000 67.2s
+seed 100 exc 0.5 hrd_schema_nogate      rule 1.000 exc_in 0.571 exc_beyond 0.077 (>4W 0.100) drift 1.000 | retest rule 0.444 exc 0.000 63.6s
+seed 101 exc 0.2 hrd_schema_nogate      rule 0.833 exc_in 0.500 exc_beyond 0.500 (>4W 0.500) drift 0.750 | retest rule 0.417 exc 0.000 64.7s
+seed 101 exc 0.5 hrd_schema_nogate      rule 0.800 exc_in 1.000 exc_beyond 0.190 (>4W 0.229) drift 0.750 | retest rule 0.500 exc 0.000 61.2s
+seed 102 exc 0.2 hrd_schema_nogate      rule 0.667 exc_in 1.000 exc_beyond 0.273 (>4W 0.091) drift 0.333 | retest rule 0.667 exc 0.000 68.0s
+seed 102 exc 0.5 hrd_schema_nogate      rule 0.889 exc_in 1.000 exc_beyond 0.259 (>4W 0.150) drift 1.000 | retest rule 0.333 exc 0.000 65.1s
+seed 103 exc 0.2 hrd_schema_nogate      rule 0.583 exc_in 1.000 exc_beyond 0.381 (>4W 0.200) drift 0.667 | retest rule 0.417 exc 0.000 65.8s
+seed 103 exc 0.5 hrd_schema_nogate      rule 0.800 exc_in 0.889 exc_beyond 0.176 (>4W 0.138) drift 0.000 | retest rule 0.400 exc 0.000 63.1s
+seed 104 exc 0.2 hrd_schema_nogate      rule 0.615 exc_in 1.000 exc_beyond 0.318 (>4W 0.154) drift 0.667 | retest rule 0.385 exc 0.000 63.9s
+seed 104 exc 0.5 hrd_schema_nogate      rule 0.556 exc_in 0.600 exc_beyond 0.216 (>4W 0.290) drift 0.333 | retest rule 0.222 exc 0.000 60.9s
+seed 105 exc 0.2 hrd_schema_nogate      rule 0.786 exc_in 0.500 exc_beyond 0.136 (>4W 0.067) drift 0.750 | retest rule 0.429 exc 0.000 66.3s
+seed 105 exc 0.5 hrd_schema_nogate      rule 0.889 exc_in 0.667 exc_beyond 0.196 (>4W 0.147) drift 1.000 | retest rule 0.556 exc 0.000 64.5s
+seed 106 exc 0.2 hrd_schema_nogate      rule 0.667 exc_in 0.600 exc_beyond 0.286 (>4W 0.000) drift 0.333 | retest rule 0.333 exc 0.000 65.5s
+seed 106 exc 0.5 hrd_schema_nogate      rule 0.600 exc_in 0.571 exc_beyond 0.224 (>4W 0.154) drift 1.000 | retest rule 0.300 exc 0.000 62.1s
+seed 107 exc 0.2 hrd_schema_nogate      rule 0.714 exc_in 0.429 exc_beyond 0.350 (>4W 0.417) drift 0.667 | retest rule 0.286 exc 0.000 65.5s
+seed 107 exc 0.5 hrd_schema_nogate      rule 0.800 exc_in 1.000 exc_beyond 0.218 (>4W 0.171) drift 0.750 | retest rule 0.300 exc 0.000 63.2s
+seed 108 exc 0.2 hrd_schema_nogate      rule 0.643 exc_in 1.000 exc_beyond 0.600 (>4W 0.583) drift 0.500 | retest rule 0.357 exc 0.000 64.5s
+seed 108 exc 0.5 hrd_schema_nogate      rule 0.750 exc_in 0.833 exc_beyond 0.224 (>4W 0.241) drift 0.667 | retest rule 0.167 exc 0.000 67.5s
+seed 109 exc 0.2 hrd_schema_nogate      rule 0.545 exc_in 1.000 exc_beyond 0.267 (>4W 0.211) drift 0.333 | retest rule 0.455 exc 0.000 65.9s
+seed 109 exc 0.5 hrd_schema_nogate      rule 0.455 exc_in 0.857 exc_beyond 0.296 (>4W 0.179) drift 0.500 | retest rule 0.273 exc 0.000 65.4s

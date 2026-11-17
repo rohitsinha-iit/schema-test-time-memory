@@ -1,0 +1,14 @@
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 20680.89it/s]
+schema               {'theta': 0.95, 'r_min': 0, 'tau': 0.5} score 0.282  retest_rule 0.193  exc_beyond 0.370  retest_exc 0.195  rule 0.749
+schema               {'theta': 0.95, 'r_min': 0, 'tau': 0.7} score 0.177  retest_rule 0.111  exc_beyond 0.243  retest_exc 0.037  rule 0.720
+schema               {'theta': 0.95, 'r_min': 7, 'tau': 0.5} score 0.282  retest_rule 0.193  exc_beyond 0.370  retest_exc 0.195  rule 0.749
+schema               {'theta': 0.95, 'r_min': 7, 'tau': 0.7} score 0.177  retest_rule 0.111  exc_beyond 0.243  retest_exc 0.037  rule 0.720
+schema               {'theta': 0.95, 'r_min': 12, 'tau': 0.5} score 0.274  retest_rule 0.247  exc_beyond 0.302  retest_exc 0.190  rule 0.771
+schema               {'theta': 0.95, 'r_min': 12, 'tau': 0.7} score 0.177  retest_rule 0.111  exc_beyond 0.243  retest_exc 0.037  rule 0.720
+schema               {'theta': 0.98, 'r_min': 0, 'tau': 0.5} score 0.309  retest_rule 0.251  exc_beyond 0.367  retest_exc 0.182  rule 0.766
+schema               {'theta': 0.98, 'r_min': 0, 'tau': 0.7} score 0.286  retest_rule 0.282  exc_beyond 0.290  retest_exc 0.130  rule 0.761
+schema               {'theta': 0.98, 'r_min': 7, 'tau': 0.5} score 0.309  retest_rule 0.251  exc_beyond 0.367  retest_exc 0.182  rule 0.766
+schema               {'theta': 0.98, 'r_min': 7, 'tau': 0.7} score 0.286  retest_rule 0.282  exc_beyond 0.290  retest_exc 0.130  rule 0.761
+schema               {'theta': 0.98, 'r_min': 12, 'tau': 0.5} score 0.316  retest_rule 0.251  exc_beyond 0.381  retest_exc 0.182  rule 0.731
+schema               {'theta': 0.98, 'r_min': 12, 'tau': 0.7} score 0.290  retest_rule 0.304  exc_beyond 0.277  retest_exc 0.114  rule 0.696
+BEST schema: {"theta": 0.98, "r_min": 12, "tau": 0.5} score 0.316

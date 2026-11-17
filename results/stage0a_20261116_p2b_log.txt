@@ -1,0 +1,205 @@
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+results/stage0a_20261116_p2b_val.jsonl: 312 runs, 0 already done, 312 to run
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/linalg/_linalg.py:2768: RuntimeWarning: overflow encountered in dot
+  sqnorm = x.dot(x)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:196: RuntimeWarning: invalid value encountered in matmul
+  e = self.W @ k - v
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/linalg/_linalg.py:2768: RuntimeWarning: overflow encountered in dot
+  sqnorm = x.dot(x)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:196: RuntimeWarning: invalid value encountered in matmul
+  e = self.W @ k - v
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/linalg/_linalg.py:2768: RuntimeWarning: overflow encountered in dot
+  sqnorm = x.dot(x)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:196: RuntimeWarning: invalid value encountered in matmul
+  e = self.W @ k - v
+  50/312  16s  failures 0
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:245: RuntimeWarning: overflow encountered in multiply
+  w = np.log1p(self.H.r[cand]) * dcand + 1e-8
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+  100/312  72s  failures 2
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:245: RuntimeWarning: overflow encountered in multiply
+  w = np.log1p(self.H.r[cand]) * dcand + 1e-8
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:245: RuntimeWarning: overflow encountered in multiply
+  w = np.log1p(self.H.r[cand]) * dcand + 1e-8
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+  150/312  120s  failures 10
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:245: RuntimeWarning: overflow encountered in multiply
+  w = np.log1p(self.H.r[cand]) * dcand + 1e-8
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:245: RuntimeWarning: overflow encountered in multiply
+  w = np.log1p(self.H.r[cand]) * dcand + 1e-8
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+  200/312  190s  failures 16
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:245: RuntimeWarning: overflow encountered in multiply
+  w = np.log1p(self.H.r[cand]) * dcand + 1e-8
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:245: RuntimeWarning: overflow encountered in multiply
+  w = np.log1p(self.H.r[cand]) * dcand + 1e-8
+  250/312  256s  failures 21
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:167: RuntimeWarning: overflow encountered in multiply
+  return np.sum(E * E, axis=1)  # values are unit norm, so this is a normalized error
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/fromnumeric.py:83: RuntimeWarning: overflow encountered in reduce
+  return ufunc.reduce(obj, axis, dtype, out, **passkwargs)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:245: RuntimeWarning: overflow encountered in multiply
+  w = np.log1p(self.H.r[cand]) * dcand + 1e-8
+/data1/rohit_sinha/miniconda3/envs/em_rh/lib/python3.11/site-packages/numpy/_core/_methods.py:49: RuntimeWarning: overflow encountered in reduce
+  return umr_sum(a, axis, dtype, out, keepdims, initial, where)
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:248: RuntimeWarning: invalid value encountered in divide
+  p = w / w.sum()
+/data2/DATA/rohit_sinha/schema/repo/sim/memories.py:245: RuntimeWarning: overflow encountered in multiply
+  w = np.log1p(self.H.r[cand]) * dcand + 1e-8
+  300/312  298s  failures 25
+  312/312  300s  failures 25
+chosen etas: {"arrival_fifo": 0.1, "schema": 0.5, "schema_R128": 0.5, "schema_R64": 1.0, "schema_agem_only": 1.0, "schema_dsum": 2.0, "schema_dsum_rho4": 0.5, "schema_lookahead_only": 2.0, "schema_nogate": 1.0, "schema_noreconsol": 2.0, "schema_nosupersede": 0.5, "schema_redundancy_evict": 0.5, "schema_surprise_pri": 1.0, "schema_surprise_pri_dsum": 1.0, "sleep_all": 8.0, "surprise_fifo": 0.1, "uniform_replay": 2.0, "schema_eta05": 0.5, "schema_nogate_eta05": 0.5}
+results/stage0a_20261116_p2b_grid.jsonl: 2565 runs, 0 already done, 2565 to run
+  50/2565  9s  failures 0
+  100/2565  16s  failures 0
+  150/2565  24s  failures 0
+  200/2565  31s  failures 0
+  250/2565  40s  failures 0
+  300/2565  61s  failures 0
+  350/2565  86s  failures 0
+  400/2565  108s  failures 0
+  450/2565  130s  failures 0
+  500/2565  157s  failures 0
+  550/2565  214s  failures 0
+  600/2565  271s  failures 0
+  650/2565  347s  failures 0
+  700/2565  428s  failures 0
+  750/2565  483s  failures 0
+  800/2565  521s  failures 0
+  850/2565  540s  failures 0
+  900/2565  554s  failures 0
+  950/2565  598s  failures 0
+  1000/2565  648s  failures 0
+  1050/2565  729s  failures 0
+  1100/2565  800s  failures 0
+  1150/2565  873s  failures 0
+  1200/2565  938s  failures 0
+  1250/2565  1014s  failures 0
+  1300/2565  1092s  failures 0
+  1350/2565  1171s  failures 0
+  1400/2565  1250s  failures 0
+  1450/2565  1331s  failures 0
+  1500/2565  1405s  failures 0
+  1550/2565  1480s  failures 0
+  1600/2565  1570s  failures 0
+  1650/2565  1650s  failures 0
+  1700/2565  1710s  failures 0
+  1750/2565  1768s  failures 0
+  1800/2565  1814s  failures 0
+  1850/2565  1864s  failures 0
+  1900/2565  1954s  failures 0
+  1950/2565  2039s  failures 0
+  2000/2565  2157s  failures 0
+  2050/2565  2188s  failures 0
+  2100/2565  2217s  failures 0
+  2150/2565  2241s  failures 0
+  2200/2565  2277s  failures 0
+  2250/2565  2316s  failures 0
+  2300/2565  2381s  failures 0
+  2350/2565  2449s  failures 0
+  2400/2565  2529s  failures 0
+  2450/2565  2562s  failures 0
+  2500/2565  2578s  failures 0
+  2550/2565  2592s  failures 0
+  2565/2565  2595s  failures 0
+results/stage0a_20261116_e1.jsonl: 210 runs, 0 already done, 210 to run
+  50/210  11s  failures 0
+  100/210  34s  failures 0
+  150/210  101s  failures 0
+  200/210  141s  failures 0
+  210/210  142s  failures 0
+results/stage0a_20261116_e2_d32.jsonl: 140 runs, 0 already done, 140 to run
+  50/140  7s  failures 0
+  100/140  16s  failures 0
+  140/140  21s  failures 0
+results/stage0a_20261116_e2_d64.jsonl: 140 runs, 0 already done, 140 to run
+  50/140  19s  failures 0
+  100/140  82s  failures 0
+  140/140  92s  failures 0
+results/stage0a_20261116_e2_d128.jsonl: 140 runs, 0 already done, 140 to run
+  50/140  72s  failures 0
+  100/140  729s  failures 0
+  140/140  951s  failures 0
+done
